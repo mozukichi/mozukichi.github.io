@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : zukkun
+      short_name : zukkungithubcom
     livefyre :
       site_id : 123
     intensedebate :
