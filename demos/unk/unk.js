@@ -129,11 +129,11 @@ Core.initialize = function() {
         Core.ctx = canvas.getContext('2d');
 
         // 更新処理の設定
-        var requestAnimationFrame = requestAnimationFrame ||
-            webkitRequestAnimationFrame ||
-            mozRequestAnimationFrame ||
-            oRequestAnimationFrame ||
-            msRequestAnimationFrame;
+        var requestAnimationFrame = window.requestAnimationFrame ||
+            window.webkitRequestAnimationFrame ||
+            window.mozRequestAnimationFrame ||
+            window.oRequestAnimationFrame ||
+            window.msRequestAnimationFrame;
         if (!requestAnimationFrame) {
             throw new Error('requestAnimationFrameが使用できないWebブラウザです。');
         }
@@ -247,3 +247,48 @@ Game.scenes.title.addEventListener('render', function() {
  */
 Game.scenes.title.addEventListener('exit', function() {
 });
+
+/**
+ * ゲームシーン
+ */
+Game.scenes.game = new Core.Scene();
+
+/**
+ * ゲームシーン 現在のフェーズ
+ */
+Game.scenes.game._currentPhase = 0;
+
+/**
+ * ゲームシーン フェーズ
+ */
+Game.scenes.game.phases = [
+    function(elapsedTime) {
+    },
+];
+
+/**
+ * ゲームシーン開始
+ */
+Game.scenes.game.addEventListener('enter', function() {
+});
+
+/**
+ * ゲームシーン更新
+ */
+Game.scenes.game.addEventListener('update', function(elapsedTime) {
+    // フェーズ処理の実行
+    this.phases[this._currentPhase].call(this, [elapsedTime]);
+});
+
+/**
+ * ゲームシーン描画
+ */
+Game.scenes.game.addEventListener('render', function() {
+});
+
+/**
+ * ゲームシーン終了
+ */
+Game.scenes.game.addEventListener('exit', function() {
+});
+
