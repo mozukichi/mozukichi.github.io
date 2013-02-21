@@ -7,15 +7,15 @@ tagline: games and game development
 
 ## Demos
 
+<ul>
 {% for page in site.pages %}
 {% for tag in page.tags %}
 {% if tag == "demo" %}
-<ul>
-<li><a href="{{ page.url }}">{{ page.title }}</a> {{ page.description }}</li>
-</ul>
+  <li><a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a> {{ page.description }}</li>
 {% endif %}
 {% endfor %}
 {% endfor %}
+</ul>
 
 ## Posts
 
