@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UNK
+description: TagChat ゲームプログラミング（笑）コミュニティ　新春ゲームプログラミング（笑）一発芸大会　提出作品
 header: UNK
 tags: demo
 ---
