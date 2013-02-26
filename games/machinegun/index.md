@@ -6,7 +6,9 @@ tags: game
 ---
 {% include JB/setup %}
 
-Windows用フリーゲーム「マシンガン　リメイク」のブラウザ版です。JavaScript, CanvasElement, AudioElement, Web Audio APIなどを使っていますので、Chromeなどのモダンなブラウザでお遊びください。
+2001年に製作した「真々厳（マシンガン）」を2005年にリメイクした「マシンガン　リメイク」を2013年にWeb移植したぞ！！
+
+JavaScript, CanvasElement, AudioElement, Web Audio APIなどを使っていますので、Chromeなどのモダンなブラウザでお遊びください。
 
 クリック連打で敵を倒してください。
 
