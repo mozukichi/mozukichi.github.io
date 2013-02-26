@@ -928,7 +928,7 @@ game.gamemodes.game = function( elapsedTime ) {
 				game.sounds[10].play();
 				game.setInfo(
 						game.eneName[game.stage],
-						'' + ( ( game.enemy.clickCount * game.enemy.bai + game.poKou ) * -1 ) );
+						'' + ( ( game.input.clickCount * game.player.bai + game.poKou ) * -1 ) );
 				game.wait = 1.0;
 				++game.phase;
 			}
