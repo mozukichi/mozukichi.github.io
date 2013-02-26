@@ -540,14 +540,7 @@ game.gamemodes.load = function( elapsedTime ) {
 		game.transition.show( game.imageLogo );
 		game.sounds[0].play();
 		game.phase = 0;
-		// game.curGameMode = 'logo';
-
-        //test
-		game.curGameMode = 'end';
-        game.loadMusic('sounds/music7.ogg');
-        game.phase = 0;
-        game.curGameMode = 'end';
-        game.roll = 522.0;
+		game.curGameMode = 'logo';
 	}
 };
 
