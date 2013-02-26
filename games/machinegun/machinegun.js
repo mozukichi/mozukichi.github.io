@@ -61,7 +61,7 @@ game.info[1] = '';
 game.info[2] = '';
 game.enableRenderGame = false;
 
-game.endingText = [];
+game.endingText = { complete: false, data: [] };
 
 /**
  * 画像の読み込み
@@ -452,6 +452,19 @@ game.init = function() {
 		game.playerVoice[i] = game.loadSound('sounds/voice' + (i + 1) + '.ogg');
 	}
 
+    // エンディングテキストの読み込み
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'ending.txt', true);
+    xhr.responseType = 'text';
+    xhr.onreadystatechange = function() {
+        if ( xhr.readyState == 4 && xhr.status == 200 ) {
+            game.endingText.data = xhr.responseText.split('\n');
+            console.debug(game.endingText.data);
+            game.endingText.complete = true;
+        }
+    };
+    xhr.send();
+
 	// 初期ゲームモードの設定
 	game.curGameMode = 'load';
 
@@ -509,7 +522,8 @@ game.update = function( elapsedTime ) {
 game.gamemodes.load = function( elapsedTime ) {
 	var res = [
 		game.imageLogo, game.imageTitle,
-		game.imageChikara, game.imagePlayer
+		game.imageChikara, game.imagePlayer,
+        game.endingText
 			];
 	for ( var i in game.playerVoice ) {
 		res.push( game.playerVoice[i] );
@@ -526,7 +540,14 @@ game.gamemodes.load = function( elapsedTime ) {
 		game.transition.show( game.imageLogo );
 		game.sounds[0].play();
 		game.phase = 0;
-		game.curGameMode = 'logo';
+		// game.curGameMode = 'logo';
+
+        //test
+		game.curGameMode = 'end';
+        game.loadMusic('sounds/music7.ogg');
+        game.phase = 0;
+        game.curGameMode = 'end';
+        game.roll = 522.0;
 	}
 };
 
@@ -989,7 +1010,6 @@ game.gamemodes.game = function( elapsedTime ) {
 					if ( game.transition.isFinished() ) {
 						++game.stage;
 						if ( ( game.stage == 5 && game.player.power != 50) || game.stage == 6 ) {
-							// TODO: エンディングテキストの設定
 							game.loadMusic('sounds/music7.ogg');
 							game.phase = 0;
 							game.curGameMode = 'end';
@@ -1172,7 +1192,7 @@ game.gamemodes.end = function( elapsedTime ) {
 	switch ( game.phase ) {
 		case 0:
 			if ( game.isCanPlayMusic() ) {
-				game.playMusic();
+				game.playMusic(true);
 				++game.phase;
 			}
 			break;
@@ -1182,15 +1202,14 @@ game.gamemodes.end = function( elapsedTime ) {
 			} else {
 				j = Math.floor( Math.floor(-game.roll) / 42 );
 			}
+            ctx.font = '32px monospace';
+            ctx.fillStyle = 'white';
+            ctx.textAlign = 'center';
 			for ( i = 0; i < 13; i++ ) {
-				if ( i + j <= 77 && Math.floor(game.roll) + 42 * (i + j) <= 480 ) {
-					ctx.font = '32px monospace';
-					ctx.fillStyle = 'white';
-					ctx.textAlign = 'center';
-					ctx.fillText( game.endingText[i+j], 320, Math.floor(game.roll) + 42 * (i + j) );
-					ctx.textAlign = 'left';
+				if ( i + j < game.endingText.data.length && Math.floor(game.roll) + 42 * (i + j) <= 480 + 42 ) {
+					ctx.fillText( game.endingText.data[i+j], 320, Math.floor(game.roll) + 42 * (i + j) );
 				}
-				if ( Math.floor(game.roll) + 42 * 77 < -32 ) {
+				if ( Math.floor(game.roll) + 42 * game.endingText.data.length < -32 ) {
 					game.stopMusic();
 					game.reset();
 					game.transition.show( game.imageLogo );
@@ -1200,6 +1219,7 @@ game.gamemodes.end = function( elapsedTime ) {
 					break;
 				}
 			}
+            ctx.textAlign = 'left';
 			game.roll -= 30 * elapsedTime;
 			break;
 	}
