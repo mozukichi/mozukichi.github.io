@@ -21,6 +21,12 @@ JavaScript, CanvasElement, AudioElement, Web Audio APIなどを使っていま�
     document.body.appendChild( script );
 </script>
 
+ページ下部に、遊び方やゲームの攻略情報が載っているぞ！
+
+## アンケートにご協力ください
+
+<iframe id="enquete" src="https://docs.google.com/forms/d/17dNdDShDLlAk_jbnBrwYrkNt8LxCmH8jcxp0r4KMV2k/viewform?embedded=true" width="760" height="730" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">読み込み中...</iframe>
+
 ## 遊び方
 
 「レディー」「ゴー！」となったら、３秒間とにかくクリック連打だ！！
