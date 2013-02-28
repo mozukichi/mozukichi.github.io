@@ -459,7 +459,6 @@ game.init = function() {
     xhr.onreadystatechange = function() {
         if ( xhr.readyState == 4 && xhr.status == 200 ) {
             game.endingText.data = xhr.responseText.split('\n');
-            console.debug(game.endingText.data);
             game.endingText.complete = true;
         }
     };
