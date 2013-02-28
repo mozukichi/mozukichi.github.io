@@ -5,6 +5,18 @@ tagline: games and game development
 ---
 {% include JB/setup %}
 
+## Games
+
+<ul>
+{% for page in site.pages %}
+{% for tag in page.tags %}
+{% if tag == "game" %}
+  <li><a href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a> {{ page.description }}</li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
+
 ## Demos
 
 <ul>
