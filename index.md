@@ -1,6 +1,6 @@
 ---
 layout: page
-title: zukkun.github.com
+title: zukkun.github.io
 tagline: games and game development
 ---
 {% include JB/setup %}
