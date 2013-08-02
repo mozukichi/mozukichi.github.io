@@ -5,7 +5,7 @@ tagline: games and game development
 ---
 {% include JB/setup %}
 
-## Games
+## ゲーム
 
 <ul>
 {% for page in site.pages %}
@@ -17,7 +17,7 @@ tagline: games and game development
 {% endfor %}
 </ul>
 
-## Demos
+## デモ
 
 <ul>
 {% for page in site.pages %}
@@ -29,7 +29,7 @@ tagline: games and game development
 {% endfor %}
 </ul>
 
-## Posts
+## ブログ
 
 <ul class="posts">
   {% for post in site.posts %}
