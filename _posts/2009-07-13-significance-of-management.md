@@ -2,8 +2,8 @@
 layout: post
 title: "「管理する」ことの重要性"
 description: ""
-category: game-development
-tags: [management]
+category: ゲーム開発
+tags: [マネジメント]
 ---
 {% include JB/setup %}
 

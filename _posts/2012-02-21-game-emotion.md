@@ -2,8 +2,8 @@
 layout: post
 title: "ゲームよって発生されうる感情や感覚、楽しみの要素について"
 description: ""
-category: game-development
-tags: [game-design]
+category: ゲーム開発
+tags: [ゲームデザイン]
 ---
 {% include JB/setup %}
 

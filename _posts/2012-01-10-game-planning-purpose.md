@@ -2,8 +2,8 @@
 layout: post
 title: "ゲームの企画書を書く\"伝える\"以外の目的"
 description: ""
-category: game-development
-tags: [game-design]
+category: ゲーム開発
+tags: [ゲームデザイン]
 ---
 {% include JB/setup %}
 

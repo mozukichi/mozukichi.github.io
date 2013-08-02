@@ -2,8 +2,8 @@
 layout: post
 title: "「悪徳ゲーム」に対する投稿まとめ"
 description: ""
-category: opinion
-tags: [evil-games]
+category: 意見
+tags: [悪徳ゲーム]
 ---
 {% include JB/setup %}
 

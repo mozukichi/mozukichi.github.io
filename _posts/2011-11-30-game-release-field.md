@@ -2,8 +2,8 @@
 layout: post
 title: "ゲーム作品を発表する魅力的な場が必要という話"
 description: ""
-category: game-development
-tags: [marketing]
+category: ゲーム開発
+tags: [マーケティング]
 ---
 {% include JB/setup %}
 

@@ -2,8 +2,8 @@
 layout: post
 title: "マーケティング的ゲーム作り"
 description: ""
-category: game-development
-tags: [game-design, marketing]
+category: ゲーム開発
+tags: [ゲームデザイン, マーケティング]
 ---
 {% include JB/setup %}
 

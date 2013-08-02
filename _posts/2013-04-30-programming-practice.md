@@ -2,8 +2,8 @@
 layout: post
 title: "プログラミングの技術を磨くための課題"
 description: ""
-category: programming
-tags: [programming]
+category: プログラミング
+tags: [プログラミング]
 ---
 {% include JB/setup %}
 

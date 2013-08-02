@@ -2,8 +2,8 @@
 layout: post
 title: "three.js/WebGLによる3Dプログラミング"
 description: ""
-category: progress-report
-tags: [threejs, webgl]
+category: 進捗報告
+tags: [three.js, WebGL]
 ---
 {% include JB/setup %}
 

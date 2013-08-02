@@ -2,7 +2,7 @@
 layout: post
 title: "魅力はいつ感じるのか"
 description: ""
-category: psychology
+category: 心理学
 tags: []
 ---
 {% include JB/setup %}

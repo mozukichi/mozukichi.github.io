@@ -2,7 +2,7 @@
 layout: post
 title: "他人には見えないプログラミングという作業"
 description: ""
-category: opinion
+category: 意見
 tags: []
 ---
 {% include JB/setup %}

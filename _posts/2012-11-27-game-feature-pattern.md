@@ -2,8 +2,8 @@
 layout: post
 title: "ゲームフィーチャーパターン"
 description: ""
-category: game-development
-tags: [game-design]
+category: ゲーム開発
+tags: [ゲームデザイン]
 ---
 {% include JB/setup %}
 

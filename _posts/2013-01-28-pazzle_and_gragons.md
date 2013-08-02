@@ -2,8 +2,8 @@
 layout: post
 title: "『パズル＆ドラゴンズ』レビュー"
 description: ""
-category: game-review
-tags: [game, review]
+category: ゲームレビュー
+tags: [ゲーム, レビュー]
 ---
 {% include JB/setup %}
 

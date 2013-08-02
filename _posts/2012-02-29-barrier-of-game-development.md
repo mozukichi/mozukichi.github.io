@@ -2,8 +2,8 @@
 layout: post
 title: "創作活動における障壁"
 description: ""
-category: game-development
-tags: [management]
+category: ゲーム開発
+tags: [マネジメント]
 ---
 {% include JB/setup %}
 

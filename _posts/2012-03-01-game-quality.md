@@ -2,8 +2,8 @@
 layout: post
 title: "ゲームにおける品質"
 description: ""
-category: game-development
-tags: [game-design]
+category: ゲーム開発
+tags: [ゲームデザイン]
 ---
 {% include JB/setup %}
 

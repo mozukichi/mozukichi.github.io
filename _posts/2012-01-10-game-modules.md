@@ -2,8 +2,8 @@
 layout: post
 title: "ゲームプログラミングにおけるモジュール分割"
 description: ""
-category: game-development
-tags: [program-design, programming]
+category: ゲーム開発
+tags: [プログラム設計, プログラミング]
 ---
 {% include JB/setup %}
 

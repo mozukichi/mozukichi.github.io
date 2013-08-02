@@ -2,8 +2,8 @@
 layout: post
 title: "表現と娯楽"
 description: ""
-category: game-development
-tags: [game-design]
+category: ゲーム開発
+tags: [ゲームデザイン]
 ---
 {% include JB/setup %}
 

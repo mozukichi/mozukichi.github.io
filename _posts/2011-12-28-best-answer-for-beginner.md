@@ -2,8 +2,8 @@
 layout: post
 title: "ゲーム開発初心者の「何で作るのが一番いいですか？」に対するベストな回答"
 description: ""
-category: opinion
-tags: [programming]
+category: 意見
+tags: [プログラミング]
 ---
 {% include JB/setup %}
 

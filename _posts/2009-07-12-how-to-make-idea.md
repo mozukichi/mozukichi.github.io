@@ -2,8 +2,8 @@
 layout: post
 title: "ゲームのアイディアを思い付かせる方法"
 description: ""
-category: game-development
-tags: [idea, game-design]
+category: ゲーム開発
+tags: [アイディア, ゲームデザイン]
 ---
 {% include JB/setup %}
 
