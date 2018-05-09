@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+
+  
+  <title>Phaserはゲームデザインを侵食しているか？ | zukkun.github.io</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="以下の記事を読みました。 小さなJavaScriptライブラリをガッチャンコしてゲームエンジンっぽいことをさせるのは可能なのか - ABAの日誌 この記事に書かれている「目的が限定的な小さいライブラリを組み合わせるという考え方でゲームを実装する」という考え方に、共感を得ました。 個人的にも、制約の多いオールインワンなゲームフレームワークを使うよりも、マイクロなライブラリを組み合わせて使うべきではな">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Phaserはゲームデザインを侵食しているか？">
+<meta property="og:url" content="http://zukkun.github.io/20150902-phaser-erosion-gamedesign.html">
+<meta property="og:site_name" content="zukkun.github.io">
+<meta property="og:description" content="以下の記事を読みました。 小さなJavaScriptライブラリをガッチャンコしてゲームエンジンっぽいことをさせるのは可能なのか - ABAの日誌 この記事に書かれている「目的が限定的な小さいライブラリを組み合わせるという考え方でゲームを実装する」という考え方に、共感を得ました。 個人的にも、制約の多いオールインワンなゲームフレームワークを使うよりも、マイクロなライブラリを組み合わせて使うべきではな">
+<meta property="og:locale" content="ja">
+<meta property="og:updated_time" content="2018-05-09T03:37:52.830Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Phaserはゲームデザインを侵食しているか？">
+<meta name="twitter:description" content="以下の記事を読みました。 小さなJavaScriptライブラリをガッチャンコしてゲームエンジンっぽいことをさせるのは可能なのか - ABAの日誌 この記事に書かれている「目的が限定的な小さいライブラリを組み合わせるという考え方でゲームを実装する」という考え方に、共感を得ました。 個人的にも、制約の多いオールインワンなゲームフレームワークを使うよりも、マイクロなライブラリを組み合わせて使うべきではな">
+  
+    <link rel="alternate" href="/atom.xml" title="zukkun.github.io" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">zukkun.github.io</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSSフィード"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="検索"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://zukkun.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-phaser-erosion-gamedesign" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/20150902-phaser-erosion-gamedesign.html" class="article-date">
+  <time datetime="2015-09-01T15:00:00.000Z" itemprop="datePublished">2015-09-02</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Phaserはゲームデザインを侵食しているか？
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>以下の記事を読みました。</p>
+<p><a href="http://aba.hatenablog.com/entry/2015/08/24/204338" target="_blank" rel="noopener">小さなJavaScriptライブラリをガッチャンコしてゲームエンジンっぽいことをさせるのは可能なのか - ABAの日誌</a></p>
+<p>この記事に書かれている「目的が限定的な小さいライブラリを組み合わせるという考え方でゲームを実装する」という考え方に、共感を得ました。</p>
+<p>個人的にも、制約の多いオールインワンなゲームフレームワークを使うよりも、マイクロなライブラリを組み合わせて使うべきではないだろうか、ということを考えています。</p>
+<p>この考えはUNIX哲学に通ずるものがあります。</p>
+<p><a href="http://blog.yuyat.jp/archives/2560" target="_blank" rel="noopener">Web エンジニア 6 年 5 ヶ月やってたどり着いた価値観 - Born Too Late </a></p>
+<p>この記事の「小さくて組み合わせられるものを作る」の節の内容とつながります。</p>
+<blockquote>
+<p>小さくて組み合わせられるものを作る<br>まぁ UNIX 哲学ですね。<br>オブジェクト指向においては単一責任原則というものがあるし、関数型プログラミングは小さな関数を組み合わせて大きな問題を解決するスタイルが一般的。<br>モノリシックアーキテクチャに対するマイクロサービスアーキテクチャが持つ価値というのも、レイヤは違えどかなり似ているんだと思う。</p>
+</blockquote>
+<h2 id="Phaserの制約"><a href="#Phaserの制約" class="headerlink" title="Phaserの制約"></a>Phaserの制約</h2><p>現在、HTML5ゲームフレームワークで利用人口が多いものとしてPhaserがあり、自分もこのPhaserを利用したゲーム実装というのを進めているのですが、納得出来ない仕様がちらほら出てきて、フルスクラッチでの実装の誘惑に何度もかられます。</p>
+<p>例えば、Phaser.Groupで複数のPhaser.Spriteを束ねることができますが、このPhaser.GroupそのものはPhysics Bodyを持たないので、「複数のSpriteを持った1個のPhysics Body」というものを作ることができません。</p>
+<p>内部的な仕様を深く調べれば、もしかしたらバッドノウハウのような形で問題解決することができるかもしれませんが、アーキテクチャとしてPhaserというレイヤーの上に、Phaserの下に位置するレイヤーに触れるようなハックをすることに強い抵抗を覚えます。</p>
+<h2 id="オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案"><a href="#オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案" class="headerlink" title="オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案"></a>オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案</h2><p>上記のような、シーングラフと物理演算という異なる関心がどのように結びつくか、というのは、分野としては「ゲームプログラミング」に位置するものという印象が持てますが、ゲームの内容によっては、ゲームの仕様と深く関わる可能性を持っています。</p>
+<p>つまり、ゲームフレームワークの制約が、ゲームデザインに影響を与える可能性がある、ということです。</p>
+<p>ゲームデザインにゲームフレームワークの制約の影響を与えないためには、小さなライブラリを、ゲームデザインが求める形で組み合わせる必要があります。</p>
+<p>つまり「小さなライブラリをどう接続するか」は、ゲームプログラミングではなく、ゲームデザインの領域である、という極論を試したい、という主張です。</p>
+<h2 id="でも時代が求めているのはオールインワンなんでしょ？"><a href="#でも時代が求めているのはオールインワンなんでしょ？" class="headerlink" title="でも時代が求めているのはオールインワンなんでしょ？"></a>でも時代が求めているのはオールインワンなんでしょ？</h2><p>小さなライブラリを上手く接続するためには、それなりの知見が求められます。</p>
+<p>なので、さくっと思いつきのゲームを作って試したい、という要求には答えにくい方針です。</p>
+<p>時代は「サクッと作れるツール」を求めているようで、UnityやPhaserがもてはやされるのも、そういうものが求められているからのようです。（Unityでちょっと凝ったことをしようとすると、低レイヤなAPIを使ってガリガリコーディングする必要があるから、本当に時代の要求に答えるアーキテクチャなのか？という疑問はあるけど）</p>
+<p>しかし、ゲームデザインとゲームプログラミングとは、そもそもそういう崇高な作業なのだよ、という主張を自分に言い聞かせることによって、自身のアイデンティティを確立させておくことで、とりあえずこの議題を閉じておきたい。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://zukkun.github.io/20150902-phaser-erosion-gamedesign.html" data-id="cjgyk265j000ip6vq7bwpuy5x" class="article-share-link">共有</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/20151022-what-is-good-advice.html" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">次の記事</strong>
+      <div class="article-nav-title">
+        
+          良い忠告とはなにか
+        
+      </div>
+    </a>
+  
+  
+    <a href="/20130910-google-plus-embed.html" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前の記事</strong>
+      <div class="article-nav-title">Google+の投稿を埋め込み</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">アーカイブ</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">10月 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">9月 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/09/">9月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/08/">8月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/04/">4月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/01/">1月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/11/">11月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/10/">10月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/05/">5月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/03/">3月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/02/">2月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/01/">1月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2011/12/">12月 2011</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2011/11/">11月 2011</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2010/04/">4月 2010</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2009/09/">9月 2009</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2009/07/">7月 2009</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2006/08/">8月 2006</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2006/03/">3月 2006</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最近の投稿</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/20151022-what-is-good-advice.html">良い忠告とはなにか</a>
+          </li>
+        
+          <li>
+            <a href="/20150902-phaser-erosion-gamedesign.html">Phaserはゲームデザインを侵食しているか？</a>
+          </li>
+        
+          <li>
+            <a href="/20130910-google-plus-embed.html">Google+の投稿を埋め込み</a>
+          </li>
+        
+          <li>
+            <a href="/20130802-create-android-app.html">Androidアプリ開発</a>
+          </li>
+        
+          <li>
+            <a href="/20130430-programming-practice.html">プログラミングの技術を磨くための課題</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2018 Kazuki Miyanishi<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+
+
+  </div>
+</body>
+</html>
