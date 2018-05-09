@@ -50,7 +50,7 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 0
+  per_page: 10
   order_by: -date
   
 # Category & Tag
@@ -81,3 +81,10 @@ deploy:
   type: git
   repo: https://github.com/zukkun/zukkun.github.io.git
   branch: master
+
+  # Feed
+  feed: 
+    type: atom
+    path: atom.xml
+    limit: 20
+    content_limit: 140
