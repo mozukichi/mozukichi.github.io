@@ -1,1 +1,8 @@
-_site
+.DS_Store
+Thumbs.db
+db.json
+debug.log
+node_modules/
+public/
+.deploy/
+themes/
