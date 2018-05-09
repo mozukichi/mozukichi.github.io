@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zukkun.github.io</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zukkun.github.io/"/>
+  <updated>2018-05-09T03:38:52.208Z</updated>
+  <id>http://zukkun.github.io/</id>
+  
+  <author>
+    <name>Kazuki Miyanishi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>良い忠告とはなにか</title>
+    <link href="http://zukkun.github.io/20151022-what-is-good-advice.html"/>
+    <id>http://zukkun.github.io/20151022-what-is-good-advice.html</id>
+    <published>2015-10-21T15:00:00.000Z</published>
+    <updated>2018-05-09T03:38:52.208Z</updated>
+    
+    <content type="html"><![CDATA[<p>「忠告」とは、デジタル大辞泉によれば以下の意味のようである。</p><blockquote><p>［名］(スル)まごころをこめて相手の欠点や過ちを、戒めさとすこと。「友人に―する」</p></blockquote><p><a href="http://dictionary.goo.ne.jp/leaf/jn2/143236/m0u/" target="_blank" rel="noopener">ちゅうこく【忠告】の意味 - 国語辞書 - goo辞書</a> より引用。</p><p>では「良い忠告」とは何か。</p><h2 id="「良い忠告」とは何か"><a href="#「良い忠告」とは何か" class="headerlink" title="「良い忠告」とは何か"></a>「良い忠告」とは何か</h2><p>私が思うに「良い忠告」とは「行動可能な忠告」である。</p><p>つまり、忠告をされた人間が、その忠告を聞いて即時に行動に移せるかどうか、である。</p><p>忠告を聞いて即時に行動に移せない忠告は、「良くない忠告」「質の悪い忠告」である、という私の主張である。</p><p>厳密に表現するなら「正された行動の内容が、忠告の内容に含まれているかどうか」である。</p><h2 id="「即時に行動に移せない忠告」は「良くない忠告」なのか"><a href="#「即時に行動に移せない忠告」は「良くない忠告」なのか" class="headerlink" title="「即時に行動に移せない忠告」は「良くない忠告」なのか"></a>「即時に行動に移せない忠告」は「良くない忠告」なのか</h2><p>忠告を聞いて、即時に行動に移せなくとも、その忠告の内容から、忠告をされた人間が自発的に思索し、そこから問題の解決方法を自ら導き出すことができれば、それは良いことなのではないか、と言える。</p><p>これは「純粋な忠告」というよりも「良い結果に導くこと」のニュアンスに近い忠告のように感じる。</p><p>ただし「考える」という「行動」を起こしているため、それは「良い忠告」であると考えることもできるが、その「考えた」結果、忠告側が望んでいた行動ではない行動に導かれる可能性も孕んでいるため、「正された行動の内容が直接忠告の内容に含んでいる」忠告よりは、その質は良くないと感じる。</p><p>ここでは、忠告の内容に孕む「行動」の内容の是非は問いていない。あくまで「忠告」というものそのものの質について説いている。「忠告の内容の是非を問わずに、忠告そのものの質を問うことに価値があるのか」については「それに価値がある」と言える。なぜならば、良い内容の忠告であろうが、悪い内容の忠告であろうが、そもそも忠告として価値があるかどうかを評価できるからである。つまり、良い内容の忠告であったとしても、それが忠告として「良くない忠告」であるならば、その忠告から即時に自らの行動を正すことが難しいと判断できるため、その「良くない忠告」を受け流すことができ、心身の健康への悪影響を防ぐことができる、という価値がある。ここでは「忠告の良さ」と「忠告の内容の良さ」を分けて述べているため、混同に注意が必要である。</p><p>そして、そもそも「考えが深まる忠告かどうか」と「即時に行動可能な忠告かどうか」は別々の評価軸としてあり、マトリクスが形成可能である。</p><table><thead><tr><th style="text-align:center"></th><th style="text-align:center">即時に行動可能な忠告</th><th style="text-align:center">即時に行動可能ではない忠告</th></tr></thead><tbody><tr><td style="text-align:center">考えが深まる忠告</td><td style="text-align:center">A</td><td style="text-align:center">B</td></tr><tr><td style="text-align:center">考えが深まらない忠告</td><td style="text-align:center">C</td><td style="text-align:center">D</td></tr></tbody></table><p>この中で最も価値が高いのは「A」であるが、この文章での主張では「即時に行動可能な忠告は、即時に行動可能ではない忠告よりも質が高いものである」という部分のみに焦点を合わせている。</p><p>つまり、以下の主張に反論可能である。</p><p>「即時に行動可能ではない忠告であっても、考えが深まる忠告であるならば、価値がある。よって、即時に行動可能な忠告かどうかは、忠告が良いものであるかと無関係である」</p><h2 id="「行動可能な忠告」とは何か"><a href="#「行動可能な忠告」とは何か" class="headerlink" title="「行動可能な忠告」とは何か"></a>「行動可能な忠告」とは何か</h2><p>忠告の内容が行動可能かどうかを客観的に評価することは難しい。なぜならば、それは忠告の受け手が持ち合わせる語彙力や、話の流れに依存するからである。</p><p>「行動可能かどうか」は価値である、と主張した。価値とは得てして主観的である。つまり「行動可能かどうか」は、受けての主観に依存するのである。</p><p>なので「良い忠告」をしたいのであれば、その忠告の内容が受け手にとって「行動可能な内容・表現になっているかどうか」に気を使わなければならない。そして、忠告の内容が受け手にとって「行動可能な内容・表現になっているかどうか」を判断するためには、その受け手のことについてよく知らなければならない。一般的で汎用的な「良い忠告」などは無いのである。</p><p>「良い忠告」とは、受け手にとって理解可能、かつ即時に行動可能な内容・表現になっている忠告なのである。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;「忠告」とは、デジタル大辞泉によれば以下の意味のようである。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;［名］(スル)まごころをこめて相手の欠点や過ちを、戒めさとすこと。「友人に―する」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://diction
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Phaserはゲームデザインを侵食しているか？</title>
+    <link href="http://zukkun.github.io/20150902-phaser-erosion-gamedesign.html"/>
+    <id>http://zukkun.github.io/20150902-phaser-erosion-gamedesign.html</id>
+    <published>2015-09-01T15:00:00.000Z</published>
+    <updated>2018-05-09T03:37:52.830Z</updated>
+    
+    <content type="html"><![CDATA[<p>以下の記事を読みました。</p><p><a href="http://aba.hatenablog.com/entry/2015/08/24/204338" target="_blank" rel="noopener">小さなJavaScriptライブラリをガッチャンコしてゲームエンジンっぽいことをさせるのは可能なのか - ABAの日誌</a></p><p>この記事に書かれている「目的が限定的な小さいライブラリを組み合わせるという考え方でゲームを実装する」という考え方に、共感を得ました。</p><p>個人的にも、制約の多いオールインワンなゲームフレームワークを使うよりも、マイクロなライブラリを組み合わせて使うべきではないだろうか、ということを考えています。</p><p>この考えはUNIX哲学に通ずるものがあります。</p><p><a href="http://blog.yuyat.jp/archives/2560" target="_blank" rel="noopener">Web エンジニア 6 年 5 ヶ月やってたどり着いた価値観 - Born Too Late </a></p><p>この記事の「小さくて組み合わせられるものを作る」の節の内容とつながります。</p><blockquote><p>小さくて組み合わせられるものを作る<br>まぁ UNIX 哲学ですね。<br>オブジェクト指向においては単一責任原則というものがあるし、関数型プログラミングは小さな関数を組み合わせて大きな問題を解決するスタイルが一般的。<br>モノリシックアーキテクチャに対するマイクロサービスアーキテクチャが持つ価値というのも、レイヤは違えどかなり似ているんだと思う。</p></blockquote><h2 id="Phaserの制約"><a href="#Phaserの制約" class="headerlink" title="Phaserの制約"></a>Phaserの制約</h2><p>現在、HTML5ゲームフレームワークで利用人口が多いものとしてPhaserがあり、自分もこのPhaserを利用したゲーム実装というのを進めているのですが、納得出来ない仕様がちらほら出てきて、フルスクラッチでの実装の誘惑に何度もかられます。</p><p>例えば、Phaser.Groupで複数のPhaser.Spriteを束ねることができますが、このPhaser.GroupそのものはPhysics Bodyを持たないので、「複数のSpriteを持った1個のPhysics Body」というものを作ることができません。</p><p>内部的な仕様を深く調べれば、もしかしたらバッドノウハウのような形で問題解決することができるかもしれませんが、アーキテクチャとしてPhaserというレイヤーの上に、Phaserの下に位置するレイヤーに触れるようなハックをすることに強い抵抗を覚えます。</p><h2 id="オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案"><a href="#オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案" class="headerlink" title="オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案"></a>オールインワンなゲームフレームワークはゲームデザインを侵食しているという極論の提案</h2><p>上記のような、シーングラフと物理演算という異なる関心がどのように結びつくか、というのは、分野としては「ゲームプログラミング」に位置するものという印象が持てますが、ゲームの内容によっては、ゲームの仕様と深く関わる可能性を持っています。</p><p>つまり、ゲームフレームワークの制約が、ゲームデザインに影響を与える可能性がある、ということです。</p><p>ゲームデザインにゲームフレームワークの制約の影響を与えないためには、小さなライブラリを、ゲームデザインが求める形で組み合わせる必要があります。</p><p>つまり「小さなライブラリをどう接続するか」は、ゲームプログラミングではなく、ゲームデザインの領域である、という極論を試したい、という主張です。</p><h2 id="でも時代が求めているのはオールインワンなんでしょ？"><a href="#でも時代が求めているのはオールインワンなんでしょ？" class="headerlink" title="でも時代が求めているのはオールインワンなんでしょ？"></a>でも時代が求めているのはオールインワンなんでしょ？</h2><p>小さなライブラリを上手く接続するためには、それなりの知見が求められます。</p><p>なので、さくっと思いつきのゲームを作って試したい、という要求には答えにくい方針です。</p><p>時代は「サクッと作れるツール」を求めているようで、UnityやPhaserがもてはやされるのも、そういうものが求められているからのようです。（Unityでちょっと凝ったことをしようとすると、低レイヤなAPIを使ってガリガリコーディングする必要があるから、本当に時代の要求に答えるアーキテクチャなのか？という疑問はあるけど）</p><p>しかし、ゲームデザインとゲームプログラミングとは、そもそもそういう崇高な作業なのだよ、という主張を自分に言い聞かせることによって、自身のアイデンティティを確立させておくことで、とりあえずこの議題を閉じておきたい。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;以下の記事を読みました。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://aba.hatenablog.com/entry/2015/08/24/204338&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;小さなJavaScriptライブラリをガッチャンコし
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Google+の投稿を埋め込み</title>
+    <link href="http://zukkun.github.io/20130910-google-plus-embed.html"/>
+    <id>http://zukkun.github.io/20130910-google-plus-embed.html</id>
+    <published>2013-09-09T15:00:00.000Z</published>
+    <updated>2018-05-09T02:26:22.402Z</updated>
+    
+    <content type="html"><![CDATA[<p>Google+の投稿を外部サイトに埋め込むことが出来るようになったようなので、試してみます。</p><!-- Place this tag in your head or just before your close body tag. --><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><!-- Place this tag where you want the widget to render. --><div class="g-post" data-href="https://plus.google.com/102285522680170563800/posts/U2YhkVyjMLe"></div><!-- Place this tag in your head or just before your close body tag. --><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><!-- Place this tag where you want the widget to render. --><div class="g-post" data-href="https://plus.google.com/102285522680170563800/posts/RXJhHUpR2bN"></div><!-- Place this tag in your head or just before your close body tag. --><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><!-- Place this tag where you want the widget to render. --><div class="g-post" data-href="https://plus.google.com/102285522680170563800/posts/6ZSBZXJUGsc"></div><p>キュレーションが捗りますね。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Google+の投稿を外部サイトに埋め込むことが出来るようになったようなので、試してみます。&lt;/p&gt;
+&lt;!-- Place this tag in your head or just before your close body tag. --&gt;
+&lt;script type=
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Androidアプリ開発</title>
+    <link href="http://zukkun.github.io/20130802-create-android-app.html"/>
+    <id>http://zukkun.github.io/20130802-create-android-app.html</id>
+    <published>2013-08-01T15:00:00.000Z</published>
+    <updated>2018-05-09T02:39:18.367Z</updated>
+    
+    <content type="html"><![CDATA[<p>Mac OS XにてAndroid SDKプログラミング。JDK(ant付属)がインストールされている前提。</p><h2 id="Android-SDKの取得"><a href="#Android-SDKの取得" class="headerlink" title="Android SDKの取得"></a>Android SDKの取得</h2><p>Android SDKは以下のページからダウンロード可能。（2013/08/02現在）</p><p>=&gt; <a href="http://developer.android.com/intl/ja/sdk/index.html" target="_blank" rel="noopener">Android SDK | Android Developers</a></p><p>上記リンクからAndroid SDKをダウンロードし、適当な場所に展開。（自分は /usr/local/以下に置きました。）</p><p>Android SDKが置かれた場所のパスを<code>$ANDROID_HOME</code>とする。</p><p><a href="http://developer.android.com/intl/ja/sdk/installing/studio.html" target="_blank" rel="noopener">Android Studio</a>というのが公開されて、ちょっといじってみたけど、まだ様子見しておく。あとあといじり倒すかもしれないけど。</p><h2 id="Androidアプリのプロジェクトの作成"><a href="#Androidアプリのプロジェクトの作成" class="headerlink" title="Androidアプリのプロジェクトの作成"></a>Androidアプリのプロジェクトの作成</h2><p>Android SDKに、プロジェクトのスケルトンを作成するためのツールがある。<code>$ANDROID_HOME/tools/android</code>コマンド。<code>$ANDROID_HOME/tools</code>にパスを通しておいた方がいいのかな。パスを通した前提で進める。</p><p>まず、プロジェクトのディレクトリを作成し、その中で<code>android create project</code>してプロジェクトのスケルトンを作成。コマンドに対しては、細かめのオプションを設定する必要がある。</p><h3 id="android-create-project"><a href="#android-create-project" class="headerlink" title="android create project"></a>android create project</h3><pre>$ mkdir androidproject$ cd androidproject$ android create project</pre><p><code>android create project</code>とだけ叩くと、以下のような「これらのオプション入れてーな」っていう案内が出てくる。</p><pre>  -n --name    : Project name.  -t --target  : Target ID of the new project. [required]  -p --path    : The new project's directory. [required]  -k --package : Android package name for the application. [required]  -a --activity: Name of the default Activity that is created. [required]</pre><h3 id="–name"><a href="#–name" class="headerlink" title="–name"></a>–name</h3><p><code>-n</code>もしくは<code>--name</code>には、プロジェクト名を入れる。</p><h3 id="–target"><a href="#–target" class="headerlink" title="–target"></a>–target</h3><p><code>--target</code>に何を入れればいいのか？を調べるには、<code>android list targets</code>すると、ヒントをくれる。</p><pre>$ android list targets</pre><p>出力される内容はたくさんあるので、ここでは省略。<code>-c</code>もしくは<code>--compact</code>オプションをつけることで、少なめの情報で出力してくれる。</p><pre>$ android list targets -candroid-8Google Inc.:Google APIs:8KYOCERA Corporation:DTS Add-On:8LGE:Real3D Add-On:8Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8android-10Google Inc.:Google APIs:10Intel Corporation:Intel Atom x86 System Image:10KYOCERA Corporation:DTS Add-On:10LGE:Real3D Add-On:10Sony Mobile Communications AB:EDK 2.0:10android-16Google Inc.:Google APIs:16android-17Google Inc.:Google APIs:17</pre><p><code>--target</code>には、IDかターゲット名(android-8など)を指定する。それそれのターゲットがどういう意味なのかは察して下さい。<a href="http://developer.android.com/intl/ja/guide/topics/manifest/uses-sdk-element.html#ApiLevels" target="_blank" rel="noopener">What’s API Level?</a>や<a href="http://developer.android.com/intl/ja/about/dashboards/index.html" target="_blank" rel="noopener">Dashboards | Android Developers</a>を見れば、思うところがあるかもしれない。</p><h3 id="–path"><a href="#–path" class="headerlink" title="–path"></a>–path</h3><p><code>-p</code>もしくは<code>--path</code>には、プロジェクトのファイルをどこに作成するのかをパスで指定する。先程の例だと、すでにディレクトリを作成し、そのディレクトリに入っているので、<code>.</code>を指定する。</p><h3 id="–package"><a href="#–package" class="headerlink" title="–package"></a>–package</h3><p><code>-k</code>もしくは<code>--package</code>には、パッケージ名を指定する。Androidアプリを識別するための名前のようなもの。</p><p>=&gt; <a href="http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8_\(Java\" target="_blank" rel="noopener">パッケージ (Java) - Wikipedia</a>)</p><p>こちらのページが参考になる。</p><h3 id="–activity"><a href="#–activity" class="headerlink" title="–activity"></a>–activity</h3><p><code>-a</code>もしくは<code>--activity</code>には、デフォルトで実行するActivityクラスのクラス名を指定する。実行可能なAndroidアプリには、必ず1つ以上のActivityクラスが必要(要出典)になる。</p><h3 id="android-create-projectの実行"><a href="#android-create-projectの実行" class="headerlink" title="android create projectの実行"></a>android create projectの実行</h3><pre>$ android create project --name AndroidProject --target android-8 --path . --package com.zukkun.androidproject --activity MainActivity</pre><p>実行すると、以下のような出力がされる。</p><pre>Created directory /Users/zukkun/projects/androidproject/src/com/zukkun/androidprojectAdded file ./src/com/zukkun/androidproject/MainActivity.javaCreated directory /Users/zukkun/projects/androidproject/resCreated directory /Users/zukkun/projects/androidproject/binCreated directory /Users/zukkun/projects/androidproject/libsCreated directory /Users/zukkun/projects/androidproject/res/valuesAdded file ./res/values/strings.xmlCreated directory /Users/zukkun/projects/androidproject/res/layoutAdded file ./res/layout/main.xmlAdded file ./AndroidManifest.xmlAdded file ./build.xmlAdded file ./proguard-project.txt</pre><p>プロジェクトのスケルトンファイルをもりもり作ってくれた。では、さっそくantでビルドしてみよう。</p><h2 id="アプリ名を設定しよう"><a href="#アプリ名を設定しよう" class="headerlink" title="アプリ名を設定しよう"></a>アプリ名を設定しよう</h2><p>生成されたファイルの中で、res/values/strings.xmlというXMLファイルがあるので、これを開いてみる。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span><br><span class="line"><span class="tag">&lt;<span class="name">resources</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">string</span> <span class="attr">name</span>=<span class="string">"app_name"</span>&gt;</span>MainActivity<span class="tag">&lt;/<span class="name">string</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">resources</span>&gt;</span></span><br></pre></td></tr></table></figure><p>ここで<code>&lt;string name=&quot;app_name&quot;&gt;MainActivity&lt;/string&gt;</code>となっている部分の、<code>MainActivity</code>を好きなアプリ名に書き換える。</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">string</span> <span class="attr">name</span>=<span class="string">"app_name"</span>&gt;</span>あんどろいど！<span class="tag">&lt;/<span class="name">string</span>&gt;</span></span><br></pre></td></tr></table></figure><h2 id="antでビルドしてみよう"><a href="#antでビルドしてみよう" class="headerlink" title="antでビルドしてみよう"></a>antでビルドしてみよう</h2><p>デバッグビルド。</p><pre>$ ant debug</pre><p><code>BUILD SUCCESSFUL</code>が出たら成功。binディレクトリが作成されていて、その中にapkファイルが生成される。<code>ant debug</code>していた場合は、AndroidProject-debug.apkというファイルが作成されている。</p><h2 id="アプリを実行"><a href="#アプリを実行" class="headerlink" title="アプリを実行"></a>アプリを実行</h2><p>ビルドに成功したら、Android EmulatorかAndroid実機にインストールして、実行してみよう。</p><p>実機での設定や、Android Emulatorでの実行のための作業等については割愛。</p><pre>$ ant installd</pre><p>インストールされると、アプリ一覧にアイコンが追加される。</p><p><img src="/images/android-2013-08-02-01.png" alt=""></p><p>アイコンをタップして実行。</p><p><img src="/images/android-2013-08-02-02.png" alt=""></p><h2 id="ソースコード"><a href="#ソースコード" class="headerlink" title="ソースコード"></a>ソースコード</h2><p>生成されたファイルの中のsrc/com/zukkun/androidproject/の中にあるMainActivity.javaが実行されるActivityクラスのソースコード。中身はこのようになっている。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> com.zukkun.androidproject;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> android.app.Activity;</span><br><span class="line"><span class="keyword">import</span> android.os.Bundle;</span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">MainActivity</span> <span class="keyword">extends</span> <span class="title">Activity</span></span></span><br><span class="line"><span class="class"></span>&#123;</span><br><span class="line">    <span class="comment">/** Called when the activity is first created. */</span></span><br><span class="line">    <span class="meta">@Override</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">onCreate</span><span class="params">(Bundle savedInstanceState)</span></span></span><br><span class="line"><span class="function">    </span>&#123;</span><br><span class="line">        <span class="keyword">super</span>.onCreate(savedInstanceState);</span><br><span class="line">        setContentView(R.layout.main);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>こいつをゴニョゴニョして、あれしたり、これしたりする。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Mac OS XにてAndroid SDKプログラミング。JDK(ant付属)がインストールされている前提。&lt;/p&gt;
+&lt;h2 id=&quot;Android-SDKの取得&quot;&gt;&lt;a href=&quot;#Android-SDKの取得&quot; class=&quot;headerlink&quot; title=&quot;An
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>プログラミングの技術を磨くための課題</title>
+    <link href="http://zukkun.github.io/20130430-programming-practice.html"/>
+    <id>http://zukkun.github.io/20130430-programming-practice.html</id>
+    <published>2013-04-29T15:00:00.000Z</published>
+    <updated>2018-05-09T02:25:56.907Z</updated>
+    
+    <content type="html"><![CDATA[<p>Google+にて「書きたいプログラムが無いけど、プログラミング技術を磨きたいという時はどうしたらいいですか。」<br>という相談を<a href="https://plus.google.com/u/0/102285522680170563800/posts/aJ1HtqPuQ55" target="_blank" rel="noopener">投稿</a>したところ、有用なアドバイスをいくつか頂けたので、ここでまとめてみます。</p><h2 id="例題を探して実装してみる"><a href="#例題を探して実装してみる" class="headerlink" title="例題を探して実装してみる"></a>例題を探して実装してみる</h2><p>プログラミングの解説サイトを探して、そこで扱っている例題を自力で実装してみるという感じでしょうか。</p><p>プログラミング解説サイト系ですと、言語の仕様と機能の説明が多い印象なので、適当な例題が無いケースが多いような気もするので、ちょうどいい例題が見つかりにくいんじゃないかと思ったりもします。</p><h2 id="ゴールの設定を他人任せにしてしまう"><a href="#ゴールの設定を他人任せにしてしまう" class="headerlink" title="ゴールの設定を他人任せにしてしまう"></a>ゴールの設定を他人任せにしてしまう</h2><ul><li>なんか作るけどリクエストある？って募集する</li><li>オープンソース系のソフトのissueを解決してみる</li></ul><p>プログラミングの技量が少ない場合、内容によっては、自分の技量に合った難易度ではない可能性が高いですね。</p><p>上級者向けです。</p><h2 id="Project-Euler"><a href="#Project-Euler" class="headerlink" title="Project Euler"></a>Project Euler</h2><p><a href="http://projecteuler.net/" target="_blank" rel="noopener">http://projecteuler.net/</a></p><p>数学的なプログラミング課題がたくさん提供されているサイトです。</p><p>プログラミング自体は割りと出来る状態かつ数学的な問題の解法について考察をしないといけないので「プログラミング自体のスキルを磨こう」という目的にはそぐわないかもしれません。</p><h2 id="『Java-Puzzlers』"><a href="#『Java-Puzzlers』" class="headerlink" title="『Java Puzzlers』"></a>『Java Puzzlers』</h2><p><a href="http://www.javapuzzlers.com/" target="_blank" rel="noopener">http://www.javapuzzlers.com/</a></p><p>内容は見てませんが、おもしろそうです。</p><h2 id="車輪の再発明"><a href="#車輪の再発明" class="headerlink" title="車輪の再発明"></a>車輪の再発明</h2><blockquote><p>すでにあるフレームワークの機能（の一部）を、独自の実装で再現してみる</p></blockquote><p>こちらは難易度を設定しやすいのでおもしろそうです。</p><h2 id="API、フォーマット、プロトコルのサンプルを作ってみる"><a href="#API、フォーマット、プロトコルのサンプルを作ってみる" class="headerlink" title="API、フォーマット、プロトコルのサンプルを作ってみる"></a>API、フォーマット、プロトコルのサンプルを作ってみる</h2><p>難易度高めですがおもしろそうです。そして各種仕様について理解を深められるので、一石二鳥です。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Google+にて「書きたいプログラムが無いけど、プログラミング技術を磨きたいという時はどうしたらいいですか。」&lt;br&gt;という相談を&lt;a href=&quot;https://plus.google.com/u/0/102285522680170563800/posts/aJ1Htq
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>『パズル＆ドラゴンズ』レビュー</title>
+    <link href="http://zukkun.github.io/20130128-pazzle_and_gragons.html"/>
+    <id>http://zukkun.github.io/20130128-pazzle_and_gragons.html</id>
+    <published>2013-01-27T15:00:00.000Z</published>
+    <updated>2018-05-09T02:25:42.645Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近のソーシャルゲームはあまり遊んでいないので、<br>もしかしたら今のソーシャルゲームでは当たり前だという話があるかもしれないけど、<br>『パズル＆ドラゴンズ』を4時間ほど遊んでみて、見て目立って気づいた点について書きます。</p><h2 id="新規登録がすぐ完了する"><a href="#新規登録がすぐ完了する" class="headerlink" title="新規登録がすぐ完了する"></a>新規登録がすぐ完了する</h2><p>名前を入力しただけで新規登録が終わりました。</p><p>このタイトルは、何らかの（Mobageのような）プラットフォーム上のアカウントでログインして遊ぶものではないので、<br>まずそういったアカウントのログインの必要は無いようでした。</p><p>セーブデータ自体は端末内に保存されているようで、<br>必要な情報がサーバーへ送信される、というような挙動をしているようです。<br>そして、アカウント情報との紐付けは、おそらく端末固有値のようなもので行なっているのではないかと想像しています。</p><h2 id="ゲームシステムが理解しやすい"><a href="#ゲームシステムが理解しやすい" class="headerlink" title="ゲームシステムが理解しやすい"></a>ゲームシステムが理解しやすい</h2><p>ゲームシステムがシンプルで、<br>ゲーム内用語も直感的に理解しやすいものになっているので、<br>すぐに入り込めました。</p><h2 id="チュートリアルが濃厚かつシンプル"><a href="#チュートリアルが濃厚かつシンプル" class="headerlink" title="チュートリアルが濃厚かつシンプル"></a>チュートリアルが濃厚かつシンプル</h2><p>ゲームとしては当たり前の話になってしまうのですが、<br>ちゃんと当たり前にチュートリアルが充実していました。</p><p>また、上記に書いたようにゲーム内用語が無駄に凝った名称などにしていないので、<br>用語説明が小難しいということも無かったです。<br>（たまに重厚な世界観のRPGとかで、無駄に凝った名称のシステムがあって、<br>それの説明がそのゲームの世界観に沿った説明が混ざっていたりとかして<br>わかりにくいのとかありますが、そういうことは無かったです）</p><p>また、このゲームは「ダンジョン」単位で攻略する形式になっていて、<br>それにチュートリアル専用の「ダンジョン」があって、この上で解説が進んでいくステージがありました。<br>おもてなしが充実しています。</p><p>また、チュートリアル自体のテンポがいいです。<br>たまに説明がだらだら流れるチュートリアルがありますが、<br>重点だけさらっと説明されて、さくさく進む印象でした。</p><h2 id="ネットワークアクセスが必要になる箇所が少ない"><a href="#ネットワークアクセスが必要になる箇所が少ない" class="headerlink" title="ネットワークアクセスが必要になる箇所が少ない"></a>ネットワークアクセスが必要になる箇所が少ない</h2><p>ネットワークアクセスが最小限にとどまっています。<br>自分が見た限り、ネットワークアクセスが入っていた部分は以下のとおりです。</p><ul><li>ゲーム起動時</li><li>ダンジョン探索開始時と終了時</li><li>合成時（パワーアップ合成、進化合成）</li><li>ガチャを引いた時（友情ガチャ、レアガチャ）</li></ul><p>他にも細かい部分でネットワークアクセスが入る部分がありますが、<br>大きなユーザーデータの変更が無い限りは、単純な情報参照だけのネットワークアクセスは無さそうでした。</p><h2 id="テンポがいい"><a href="#テンポがいい" class="headerlink" title="テンポがいい"></a>テンポがいい</h2><p>こちらは上記の「ネットワークアクセスが少ない」も影響しますが、<br>リソースのロードも最小限におさまっていて、画面の遷移や情報の表示のテンポが早いです。</p><p>また、ダンジョン探索開始時のリソースロードも遅すぎるという印象も無いです。<br>（ここは機種にもよる部分ではありますが、読み込み中を表すアニメーションが入らない程度に早い）</p><h2 id="想像していたよりえげつなくない"><a href="#想像していたよりえげつなくない" class="headerlink" title="想像していたよりえげつなくない"></a>想像していたよりえげつなくない</h2><p>自分が言っていた、いわゆる「悪徳ゲーム」と呼ばれるようなゲームでは、<br>割とえげつないタイミングで追加課金要素の購入を迫られるような演出が入ることが多いですが、<br>このタイトルでは、そういった押し付けがましい演出はありません。</p><h2 id="UIがすっきりしている"><a href="#UIがすっきりしている" class="headerlink" title="UIがすっきりしている"></a>UIがすっきりしている</h2><p>必要な情報が必要な時に必要な分だけ表示され、<br>画面の遷移も深くないレベルで収まっていて、<br>すっきりしたUIの印象を受けます。</p><h2 id="駆け引きのバランスが良い"><a href="#駆け引きのバランスが良い" class="headerlink" title="駆け引きのバランスが良い"></a>駆け引きのバランスが良い</h2><p>ダンジョンがさくさく進み、コイン(合成などで使うお金)もモンスターもさくさく手に入りますが、<br>合成でコインを消費し、モンスターは強くなりますが、コインが割りとすぐ無くなります。<br>なので、コインを得るためにまたダンジョンに潜るわけですが、<br>そこでまたモンスターもゲットするので、合成でまた悩みます。</p><p>合成によってモンスターのレベルが上がっていくと、<br>そのモンスターの合成での消費コイン数が増えるので、<br>そこでまたコインの減りが激しくなり、ダンジョンへ潜る目的が生まれます。</p><p>少ないコインの中で、レベルが低いモンスターを強くしておくか？<br>もうちょっとコインを貯めて強いモンスターをもっと強くするか？<br>この駆け引きによって「自分の意志で攻略している」という意識が高まります。</p><h2 id="ソーシャル系では当たり前の、友達を誘いたくなる要素が当たり前に入っている"><a href="#ソーシャル系では当たり前の、友達を誘いたくなる要素が当たり前に入っている" class="headerlink" title="ソーシャル系では当たり前の、友達を誘いたくなる要素が当たり前に入っている"></a>ソーシャル系では当たり前の、友達を誘いたくなる要素が当たり前に入っている</h2><p>これはまあソーシャル系だと当たり前の要素になっていますが、<br>フレンド登録することで嬉しいことがちゃんと起こるようになっています。</p><ul><li>フレンドをダンジョンへ助っ人として使うと友情ポイント(200ポイントで友情ガチャが引ける)が多めにもらえる</li><li>助っ人として使われた相手も友情ポイントをもらえる</li></ul><p>これがあるので、そりゃあ友達を誘いたくなりますね。<br>しかし、このシステムがあるから誘いたくなるのではなく、<br>あくまで上記であれこれ書いた洗練された仕組みがあってこその「誘いたくなる」です。</p><h2 id="極限まで無駄が省かれている"><a href="#極限まで無駄が省かれている" class="headerlink" title="極限まで無駄が省かれている"></a>極限まで無駄が省かれている</h2><p>これまでゲームで遊んでいて、操作がダルくなる時がありました。<br>例えば、ただ時間だけかかる移動や、決まりきった操作を繰り返すような作業。<br>こういった「これって要るの？」と思うような要素を、極限まで省いていったような印象を感じました。<br>もしかすると、ゲームの正統進化の形として『パズドラ』があるのかもしれません。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近のソーシャルゲームはあまり遊んでいないので、&lt;br&gt;もしかしたら今のソーシャルゲームでは当たり前だという話があるかもしれないけど、&lt;br&gt;『パズル＆ドラゴンズ』を4時間ほど遊んでみて、見て目立って気づいた点について書きます。&lt;/p&gt;
+&lt;h2 id=&quot;新規登録がすぐ完了す
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームフィーチャーパターン</title>
+    <link href="http://zukkun.github.io/20121127-game-feature-pattern.html"/>
+    <id>http://zukkun.github.io/20121127-game-feature-pattern.html</id>
+    <published>2012-11-26T15:00:00.000Z</published>
+    <updated>2018-05-09T02:23:27.346Z</updated>
+    
+    <content type="html"><![CDATA[<p>ゲームには厳密に決められた形というのは存在しませんが、共通した似たパターンというのは見つけることができます。これは、大きな枠組みとしては「ジャンル分け」という形で分類されていることが多く見受けられますが、個々のゲームタイトルの中にあるゲームを構成する要素を取り出してみると、必ずしも「ジャンル分け」によって分類できないような要素というのを見つけることができます。例えば、アクションゲーム(platform game)の中にも、「サイドビューで歩きまわる」や「近距離／遠距離攻撃と敵の攻撃の回避」や「謎解き／トラップ回避」、「レベルアップ／成長」など、遊びの要素が混合して存在しています。</p><p>また、ゲームプレイそのものではなく、ゲームプレイを補助する機能に位置する要素というものもあります。例えば、メニューシステムや、画面の構成と遷移の仕方、セーブシステム、操作の補助、などがあります。</p><p>ここでは、上で述べた「ゲームを構成する要素」のことを「ゲームフィーチャー」と呼ぶことにします。フィーチャーというのはfeatureのことで、直訳すると「機能」という意味になります。また、先に述べた、ゲームプレイを構成する要素のことを「ゲームプレイフィーチャー」と呼び、ゲームプレイを補助する機能の要素のことを「ゲームシステムフィーチャー」と呼ぶことにします。</p><p>現存しているゲームで、このゲームフィーチャーに相当するものとしてどういうものがあるのか、思い出してみましょう。</p><p>まずは、ゲームプレイフィーチャーとしては、以下のものが思い出されます。詳細な説明は無しで、簡単な説明、または呼び名だけで列挙してみます。</p><ul><li>プレイヤーキャラクターの位置の操作</li><li>アイテム</li><li>スキル</li><li>敵との戦い（攻撃と回避）</li><li>謎解き／パズル</li><li>クエスト（おつかい）</li><li>ストーリー（一応、楽しめる要素として）</li><li>成長／育成</li><li>陶酔／リズム</li><li>運（ギャンブル性）</li></ul><p>このような感じでしょうか。</p><p>次に、ゲームシステムフィーチャーに相当するものは、以下のものがあります。</p><ul><li>ゲーム情報の提示（ゲームプレイをする上で必要な情報の表示）</li><li>メニューシステム（情報参照や機能呼び出しのためのユーザーインターフェイスの大枠）</li><li>セーブシステム</li><li>操作方法のカスタマイズ</li><li>画面遷移</li><li>BGM/SEの音量設定</li><li>難易度設定（最近は、自動判定のものもあり）</li></ul><p>このような感じでしょうか。</p><p>ここで挙げた各ゲームフィーチャー以外にも、ゲームフィーチャーに相当するものは存在すると思いますので、それらも含めて厳密にパターンとしての名称と定義を決め、それをゲームデザインを行う人たちの間に広めなければ、ゲームデザインについての議論が発展しにくいと考えています。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ゲームには厳密に決められた形というのは存在しませんが、共通した似たパターンというのは見つけることができます。これは、大きな枠組みとしては「ジャンル分け」という形で分類されていることが多く見受けられますが、個々のゲームタイトルの中にあるゲームを構成する要素を取り出してみると、
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>three.js/WebGLによる3Dプログラミング</title>
+    <link href="http://zukkun.github.io/20121031-webgl-threejs-experiments.html"/>
+    <id>http://zukkun.github.io/20121031-webgl-threejs-experiments.html</id>
+    <published>2012-10-30T15:00:00.000Z</published>
+    <updated>2018-05-09T02:40:02.565Z</updated>
+    
+    <content type="html"><![CDATA[<p>three.js/WebGLを使って3Dゲームを作る計画を立てていて、あれこれと実験中。</p><p><img src="/images/yuruhuwa2012-10-26-01.png" alt=""></p><p>上のスクリーンショットは、解像度320x240で、CSSによって２倍サイズ表示しているところ。three.jsによって、ライティングやシャドウを実現している。同時に、Physi.jsというammo.jsをベースにしたthree.js向けの物理エンジンによる物理演算も行なっている。これのせいか、少し古いPCでは動作がカクカクしてしまう。</p><p><img src="/images/yuruhuwa2012-10-26-02.png" alt=""></p><p>こちらは、PlaneGeometryの各頂点の高さをランダムに変えて、でこぼこにしたところにフリー素材の草のテクスチャを貼りつけたところ。テクスチャの張り具合がアレなので、ここにもしキャラクターを置いたりしたら、巨大な草になってしまう感じだったので、あれこれ調整して草が大きくならないように頑張ってみた。</p><p><img src="/images/yuruhuwa2012-10-29.png" alt=""></p><p>結果、テクスチャのRepeatを4x4にすることで、うまい具合の草の大きさになったかも。</p><p><img src="/images/yuruhuwa2012-10-30.png" alt=""></p><p>そしてここに、プレイヤーキャラクターに見立てた直方体を置いて、WASD操作もしくはカーソルキー操作によって奥手前左右に動けるようにしてみて、背後からカメラで追いかけてみたところ。うまく地面に乗るようにする高さ調整を、キャラクター位置から地面に向かってRayを飛ばして衝突したポリゴンの衝突点のY座標で割り出して見てるんだけど、どうもうまくいかなくて、めり込んだり空中を飛んだりする。なんとかしたいところ。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;three.js/WebGLを使って3Dゲームを作る計画を立てていて、あれこれと実験中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/yuruhuwa2012-10-26-01.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;上のスクリーンショットは、解像度320x240で、
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲーム開発における専用ツール開発の有用性</title>
+    <link href="http://zukkun.github.io/20120530-game-tool.html"/>
+    <id>http://zukkun.github.io/20120530-game-tool.html</id>
+    <published>2012-05-29T15:00:00.000Z</published>
+    <updated>2018-05-09T02:25:04.367Z</updated>
+    
+    <content type="html"><![CDATA[<p>人類は道具を使うことによって大きな進歩をしてきました。石を削り刃を作り、それで肉を切ることで食べやすくしたり、さらにそれを使って新しい道具作りに活用したりするなど、道具による道具の発展という可能性も広げました。このような歴史をたどって今があるということを考えますと、現代人においても道具というのはとても重要な存在に感じられます。</p><p>コンピュータ分野においては、こういった「道具」的な役割を持ったものはソフトウェアとして提供され、これらは「ツール」と呼ばれます。</p><p>さて、ゲーム開発においてもツールというのはたくさん使われるものであります。ゲームに使われるツールの種類としましては、主に以下のものがございます。</p><ul><li>グラフィック系ツール（2D/3D）</li><li>音系ツール</li><li>プログラミングツール</li><li>テキストエディタ</li><li>表計算という皮をかぶった「Microsoft Excel」という名の日本を支配している謎の統合環境。方眼紙として使われることも</li></ul><p>グラフィックや音関連に付きましては、ゲームを表現するための素材を作るためのツールということになります。いわゆる飾り付け部分のための道具ということになります。</p><p>プログラミングツールの存在は、ゲームが実際にゲームとして動くための情報を記述したり出力したりするための道具になります。このツールによって、ゲームがゲームとしてルールに沿って動くことが出来るようになります。</p><p>さて、単純なルールと表現だけでゲームは作れるのですが、ゲームの内容の規模が大きくなってきますと、ゲーム内部で扱う情報の量が当然増えてくるわけですが、そういう情報をプログラムから取り出して外部のデータとして扱うというパターンが出てきます。そして、そういった外部のデータを記述するためのツールとして、テキストエディタや、Excelが使われる場面が出てきます。</p><p>ゲームで扱う情報の形式で多いパターンとしては、以下のものがあります。</p><ul><li>リスト（行単位で情報が記述されたテキストなど）</li><li>テーブル形式（CSVなど）</li><li>構造化形式（XML, JSONなど）</li><li>独自のバイナリ</li></ul><p>上記のような情報を記述するためのツールとして、テキストエディタやExcelを例に出しましたが、時には、扱う情報の種類に特化した専用のツールが使われるパターンがあります。そういったものの例としては、マップエディター、レベルエディターがあります。これらは言わば、ゲーム世界を構築するためのコンストラクションツールと言えるでしょう。</p><p>マップエディターに関しては、汎用的に使えるツールを見かけることがありますが、少しでもゲームの内容に特化した情報を付加させようとすると、そのツールでは物足りなくなります。レベルエディターについては、厳密にゲームデザインに沿った形になっていなければなりません。</p><p>ゲームデザインが固定化しているジャンルにおいては、いわゆるゲームエンジン、ミドルウェアといった形でレベルエディターが提供されているものがあります。</p><p>もしあなたが、あなたオリジナルのデザインによって世界を構築したいのならば、それを構築するためのツールを作るという選択肢を考えて下さい。それは単にデータ作りが楽になるだけではなく、むしろ、ツール無しでは作られることのなかった世界がそこで構築されることになるのです。</p><p>「制限があるほうが人は創造的になれる」という話を聞きます。まったくの無から有を生み出すことは非常にコストのかかる作業になります。厳密には無理でしょう。なぜなら、まったくの新しいものと思われるアイディアも、すでにある何かの組み合わせであるから、という話に由来します。もし、その組み合わせの元になる何かがすでに用意され、組み合わせの選択肢が制限されているとしたら、その作業コストはずっと少なくなります。しかし、それはとても創造的なことなのです。なぜなら、組み合わせこそが創造だったからに他なりません。その制限された創造的な空間を提供するのがツールなのです。</p><p>人は、創造のためにツールを使うのではなく、ツールの上で創造するのです。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;人類は道具を使うことによって大きな進歩をしてきました。石を削り刃を作り、それで肉を切ることで食べやすくしたり、さらにそれを使って新しい道具作りに活用したりするなど、道具による道具の発展という可能性も広げました。このような歴史をたどって今があるということを考えますと、現代人に
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームシステムパターン</title>
+    <link href="http://zukkun.github.io/20120316-game-system-pattern.html"/>
+    <id>http://zukkun.github.io/20120316-game-system-pattern.html</id>
+    <published>2012-03-15T15:00:00.000Z</published>
+    <updated>2018-05-09T02:22:24.564Z</updated>
+    
+    <content type="html"><![CDATA[<p>ゲームシステムパターン。</p><ul><li>ステージ<ul><li>一方向型</li><li>自由選択型</li><li>階層型</li></ul></li><li>アイテム</li><li>スキル</li><li>合成：アイテムやスキルの合成</li><li>収集：アイテムなどのコレクション要素</li><li>プレイヤー<ul><li>移動（４方向、８方向、サイドビュー左右方向＋ジャンプ）</li></ul></li><li>敵キャラクター</li><li>ミス／ゲームオーバー：ペナルティ</li><li>体力：このパラメータが無くなると大抵ミスという扱い</li><li>攻撃<ul><li>打撃</li><li>射的</li></ul></li><li>防御／回避</li><li>会話：専用ウィンドウ内で文が表示される</li><li>立ち絵：会話主の提示として表示される</li><li>パズル盤面</li><li>メニュー<ul><li>各種パラメータの確認</li><li>アイテム／スキルの使用</li><li>設定、セーブ</li></ul></li><li>情報の表示<ul><li>各種パラメータの確認</li><li>地図</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ゲームシステムパターン。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ステージ&lt;ul&gt;
+&lt;li&gt;一方向型&lt;/li&gt;
+&lt;li&gt;自由選択型&lt;/li&gt;
+&lt;li&gt;階層型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;アイテム&lt;/li&gt;
+&lt;li&gt;スキル&lt;/li&gt;
+&lt;li&gt;合成：アイテムやスキルの合成&lt;/l
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームにおける品質</title>
+    <link href="http://zukkun.github.io/20120301-game-quality.html"/>
+    <id>http://zukkun.github.io/20120301-game-quality.html</id>
+    <published>2012-02-29T15:00:00.000Z</published>
+    <updated>2018-05-09T02:24:47.134Z</updated>
+    
+    <content type="html"><![CDATA[<p>ゲームにおける品質。</p><ul><li>コンセプト<ul><li>意図が明確</li><li>「売り」が意図に基づいて選択されている</li></ul></li><li>ターゲティング（ターゲットに合わせた…）<ul><li>雰囲気の調和</li><li>世界設定</li><li>レベルデザイン</li><li>ターゲットが意図に基づいて選択されている</li></ul></li><li>ユーザビリティ<ul><li>操作がわかりやすい</li><li>ゲーム世界の情報を理解しやすい</li><li>ゲームプレイの目的が明白</li><li>「驚き最小の原則」</li></ul></li><li>ユーザー・エクスペリエンス<ul><li>心地良い操作</li><li>「美しい」反応</li></ul></li><li>リソースの品質<ul><li>絵・音楽・物語の品質（リソースの品質の評価軸はターゲットに依存する）</li></ul></li><li>ソフトウェアの品質<ul><li>停止しない</li><li>バグが無い</li><li>処理落ちしない</li><li>リソースの読み込みに時間がかからない</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ゲームにおける品質。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コンセプト&lt;ul&gt;
+&lt;li&gt;意図が明確&lt;/li&gt;
+&lt;li&gt;「売り」が意図に基づいて選択されている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ターゲティング（ターゲットに合わせた…）&lt;ul&gt;
+&lt;li&gt;雰囲気の調和&lt;/li&gt;
+&lt;l
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>創作活動における障壁</title>
+    <link href="http://zukkun.github.io/20120229-barrier-of-game-development.html"/>
+    <id>http://zukkun.github.io/20120229-barrier-of-game-development.html</id>
+    <published>2012-02-28T15:00:00.000Z</published>
+    <updated>2018-05-09T02:23:41.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>創作活動における障壁。</p><ul><li>作業開始に手間がかかる</li><li>作業の手順を知らない</li><li>作る意図を[見つけていない|決めていない]</li><li>作る内容が決まっていない</li><li>作る内容を認めることができない</li><li>品質を保つ方法を知らない</li></ul><p>以下は、作ること自体ではなく、その作ったものを他人に見せる、発表する、売り込むという面で見たときの障壁。</p><ul><li>見せる、発表する、売り込む場を知らない</li><li>作ったものを知ってもらう機会を増やす方法を知らない</li><li>作ったものの魅力を伝える方法を知らない</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;創作活動における障壁。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;作業開始に手間がかかる&lt;/li&gt;
+&lt;li&gt;作業の手順を知らない&lt;/li&gt;
+&lt;li&gt;作る意図を[見つけていない|決めていない]&lt;/li&gt;
+&lt;li&gt;作る内容が決まっていない&lt;/li&gt;
+&lt;li&gt;作る内容を認めることができない&lt;/l
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームよって発生されうる感情や感覚、楽しみの要素について</title>
+    <link href="http://zukkun.github.io/20120221-game-emotion.html"/>
+    <id>http://zukkun.github.io/20120221-game-emotion.html</id>
+    <published>2012-02-20T15:00:00.000Z</published>
+    <updated>2018-05-09T02:23:58.173Z</updated>
+    
+    <content type="html"><![CDATA[<p>ゲームの楽しさが何であるかということについては過去に多くが語られ、そして誰もが納得出来る答えをしている場面は未だ見受けられないという現実があります。頻繁に見かける回答としては、ある固有のゲームタイトルにおいて突出して感じられる何らかの感情・感覚を取り上げ、「それこそがゲームの楽しみである」と論ずる場面です。もちろん、一つの固有ゲームタイトルにゲーム全般の遊び要素が含まれているということは少ないので、他のゲームタイトルを例に出して反論されるというのが恒例の行事のようにさえなっています。</p><p>では、ゲーム含まれる、いわゆる「楽しみの要素」が一つでは無いのだとしたら、それはどういったものがあるのか、探すこととしましょう。私個人がこれまでに体験したことのあるゲームから感じられた感情・感覚や楽しみの要素としては以下が挙げられます。</p><ul><li>生理／本能系<ul><li>暴力(violence)</li><li>性(sex)</li><li>スピード感(speed)</li><li>恐怖感(horror)</li><li>緊張感(thrill)</li></ul></li><li>雰囲気系<ul><li>畏怖感(awe)</li><li>哀愁不安感(nostalgia)</li><li>気味悪さ(creepy)</li><li>没入感(immersion)</li><li>臨場感(real)</li><li>爽快感(effects)</li></ul></li><li>酩酊系<ul><li>リズム感(rhythm)</li><li>グルーブ感(groove)</li><li>達成感／完了感(done)</li></ul></li><li>知性系<ul><li>観察(observe)</li><li>発見(discover)</li><li>冒険(adventure)</li><li>戦略(strategy)</li><li>資源管理(resource management)</li><li>パズル(pazzle)</li><li>創造(create)</li><li>カタルシス(catharsis)</li></ul></li><li>自我系<ul><li>成長感(grow)</li><li>アバター／部屋などのカスタマイズ(arrange)</li><li>世話(care)</li></ul></li><li>社会系<ul><li>優越感(superiority)</li><li>自尊心(esteem)</li><li>支配感(control)</li></ul></li><li>情操系<ul><li>悲哀感(miserable)</li><li>友情／仲間(friends)</li><li>愛情／恋(love)</li><li>自己実現感(success)</li><li>正義感(justice)</li></ul></li></ul><p>上記のうち、筆者が関心を得ている要素について、今後このブログで詳しく扱っていきたいと考えています。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ゲームの楽しさが何であるかということについては過去に多くが語られ、そして誰もが納得出来る答えをしている場面は未だ見受けられないという現実があります。頻繁に見かける回答としては、ある固有のゲームタイトルにおいて突出して感じられる何らかの感情・感覚を取り上げ、「それこそがゲーム
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームの企画書を書く&quot;伝える&quot;以外の目的</title>
+    <link href="http://zukkun.github.io/20120110-game-planning-purpose.html"/>
+    <id>http://zukkun.github.io/20120110-game-planning-purpose.html</id>
+    <published>2012-01-09T15:00:00.000Z</published>
+    <updated>2018-05-09T02:24:33.416Z</updated>
+    
+    <content type="html"><![CDATA[<p>ゲームの企画書を書く目的としてまず一番に思いつくのが「ゲーム開発に携わる人に対して企画の意図と内容を伝えるため」というのがあります。確かに、その企画の意図と内容を伝えるためには、それをまとめた資料というのがあったほうが良く、それが「企画書」という事になると思います。では、もし企画に携わる人間が「自分たった一人」であった場合、企画書を書く必要は無いのでしょうか？</p><p>私が考える、意図と内容を人に伝える以外の「企画書を書く目的」としては「企画内容を自ら参照・記憶し、改良を重ねる土台とするため」というのがあります。</p><p>##参照する</p><p>人の記憶というのはとても儚く、それを思い出さない限り、そもそもそんな記憶があったのかどうかすら証明することができません。今あなたが思いついたアイディアを、ぜひ書き留めて下さい。あなたは記憶を失うことはないでしょう。</p><p>##記憶する</p><p>アイディアというのは、記憶してある点と点を結びつけた時に生まれるものです。あなたは、あなた自信が考えたアイディアを忘れることは無いだろうと考えるでしょう。しかし、先程も申し上げましたように、自然の流れに沿うと、その記憶は失われることになります。新しく考えたアイディアを記憶するために、そのアイディアを何度も参照しましょう。そして、そのために記録し、まとめるのです。</p><p>##改良する</p><p>プログラマの間で言われていることで「自分が書いた３日前のコードは他人のコードのように見える」というのがあります。これはプログラミングだけに言えることではなく、自らが考えたこと全般で言えることのように思います。同様に「企画内容」についても、数日経てば「どうしてこんなことを考えたんだろう？」と、自分で考えた企画にもかかわらず、あとになって疑問を抱くことがあります。この疑問抱くこと自体には問題は無く、むしろそうやって疑問を持つことが、企画の改良に繋がっていくと思います。</p><p>また、企画の意図と内容を企画書としてまとめておくことで、それを他人に評価してもらうことが可能になります。ぜひ、レビューを受けましょう。そして意見をもらい、さらなる改良へとつなげるきっかけとしましょう。このとき注意していただきたいのは、企画の主軸となる意図を明確にしておくということです。意図が不明な場合、レビュー者は無責任な提案を声高々と繰り返すでしょう。また、意見や提案とも言えないただの非難や不毛と感じる的はずれな意見は、基本的には聞いてるふりをして無視しましょう。</p><p>以上のように「ゲームの企画書を書く」ということは、それを伝える以外にも、自分の中で考えをまとめ、記憶し、改良へとつなげるツールとなるのです。ぜひ、アイディアを記録し、記憶し、企画レベルでの品質向上を目指しましょう。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ゲームの企画書を書く目的としてまず一番に思いつくのが「ゲーム開発に携わる人に対して企画の意図と内容を伝えるため」というのがあります。確かに、その企画の意図と内容を伝えるためには、それをまとめた資料というのがあったほうが良く、それが「企画書」という事になると思います。では、も
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームプログラミングにおけるモジュール分割</title>
+    <link href="http://zukkun.github.io/20120110-game-modules.html"/>
+    <id>http://zukkun.github.io/20120110-game-modules.html</id>
+    <published>2012-01-09T15:00:00.000Z</published>
+    <updated>2018-05-09T02:21:22.208Z</updated>
+    
+    <content type="html"><![CDATA[<p>プログラミングを行う上で、処理をある単位で分割してプログラムを組むということが行われます。これはよく「モジュール分割」と呼ばれます。ゲームプログラミングにおいても、このモジュール分割はしばしば行われます。では、ゲームプログラミングする上でどのような内容のモジュールが作られることがあるのかご紹介します。</p><p>##コアシステムモジュール</p><p>コアシステムモジュールは、プラットフォームAPIを直接使うような<strong>システム</strong>に近い位置に居るモジュールです。主に以下のようなモジュールがあります。</p><ul><li>ファイルI/O</li><li>リソース管理</li><li>グラフィクス</li><li>サウンド</li></ul><p>この「コアシステム」系のモジュールは、ライブラリやミドルウェアなどによって提供されることが多いです。それぞれの具体的な仕様については、設計毎に異なりますし、「どういう仕様であるべきだ」という話（例：「サウンド管理はリソースレベルで管理すべきか？」など）はについてはここでは触れません。<br>ゲームモジュール</p><p>対してこちらは、ゲームシステムやゲームロジックに近い位置にあるモジュールです。ゲームシステム上で必要になる仕組みや、ゲーム仕様を実現する処理単位などがこれにあたります。例として、以下のようなものが挙げられます。</p><ul><li>タスクシステム</li><li>ゲームモード／シーン管理</li><li>マップ／イベント管理</li><li>スプライト</li><li>キャラクター管理</li></ul><p>これら以外にも、ゲームジャンルによっては様々なモジュールが必要になってきます。</p><p>【注意】ここでは「コアシステムモジュール」「ゲームモジュール」という呼び方をしていますが、これはあくまで私個人が定義した名称であって、すでに誰かが似た概念を提唱していた場合、それと異なる名称である可能性があります</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;プログラミングを行う上で、処理をある単位で分割してプログラムを組むということが行われます。これはよく「モジュール分割」と呼ばれます。ゲームプログラミングにおいても、このモジュール分割はしばしば行われます。では、ゲームプログラミングする上でどのような内容のモジュールが作られる
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲーム開発初心者の「何で作るのが一番いいですか？」に対するベストな回答</title>
+    <link href="http://zukkun.github.io/20111228-best-answer-for-beginner.html"/>
+    <id>http://zukkun.github.io/20111228-best-answer-for-beginner.html</id>
+    <published>2011-12-27T15:00:00.000Z</published>
+    <updated>2018-05-09T02:21:08.234Z</updated>
+    
+    <content type="html"><![CDATA[<p>このエントリーは、ゲーム開発初心者がよく質問する「最初は何で作るのがいいですか？」に対する回答に関する考察についての話です。</p><p>この手の質問自体は、過去に質問サイトや2chなどで頻繁に目にした記憶があります。そしてそれに対する回答は、質問毎によって変容し定まっていません。例えば、</p><ul><li>「C言語がいいんじゃないでしょうか？基礎が身につきます」</li><li>「Pythonが手軽でいいです。コンパイルの必要も無いですし」</li><li>「コンパイル無しでいいなら、PerlもRubyも手軽です。書いてて楽しいRubyがいいんじゃないでしょうか」</li><li>「JavaScriptはもっと手軽ですよ。結果がすぐ見れますし」</li><li>「VisualC++とDxLibの使用をおすすめします」</li><li>「業界を目指すんであればC++」</li><li>「HSPからやって、そのあとC言語に行くのがいいと思います」</li><li>「RPGツクールとか、そういうツールとかからでいいと思う」</li><li>「Unityがいいと思います」</li></ul><p>毎度こんな感じで回答が溢れ、質問者は「どれが一番いいんだよ！」と心のなかで嘆きつつも「教えてくれたやつを色々調べてみます。ありがとうございました」で閉めちゃいます。中には実際に「どれが一番いいんだよ！」と直接訴えるケースもありますが、その場合「結局は、どれでも好きなのでいいんじゃない？」「要は、やりやすいと思ったやつで作ればいいんじゃないの？」と、あたかも正論かのように腐臭のする結論を吐き出し、万事解決したかのような笑みを浮かべているのではないでしょうか。どのケースにおいても、質問者が路頭に迷っているという状況は変わっていません。こんな質問と回答の繰り返しが、もう何年も幾度と無く繰り返されているのです。どうしてでしょうか。</p><p>まず、回答者の回答内容が定まらない質問者側の原因として考えられるのは、</p><ul><li>質問の条件を提示していない</li><li>質問者が質問の条件について決定すべき情報を持ちえていない</li></ul><p>があります。</p><p>よくPC関連の質問では、PCスペックやOSなどの環境の情報な無ければ回答が難しい質問があったりします。環境情報が記述されていないPC関連の質問に対しては、そもそも情報不足のためピンポイントな回答ができません。</p><p>同様に「最初、ゲームは何で作るのがいいのか？」という質問も、回答の内容が条件に左右されます。例えば、動作させたい環境が決定している場合、</p><ul><li>iPhoneアプリ作りたいです。→MacでXcode使って下さい</li><li>Flashゲーム作りたいです。→Adobe Flash を買うか、Flex SDK を使って下さい</li></ul><p>などのように、回答がほぼ固定します。複雑な議論に発展することも少ないでしょう。しかし、もしそれが固定していれば、質問者側もその情報を提供する可能性が高いですが、それが無いケースが多いです。わざと教えないのでしょうか？いいえ、質問者もそれがわからなくて迷っているのです。例えば、以下のようなケースです。</p><ul><li>漠然とゲームを作ってみたいけど、どうしていいのかわからない</li><li>将来、ゲームプログラマになりたいけど、何を勉強していいのかわからない</li></ul><p>このケースの場合であっても、はじめの回答例のような「○○を使うのがいいですよ」という具体的な開発環境の推薦が根拠無しに並びます。回答している本人は確固たる根拠を持っているように感じていると思うのですが、もし本当にそうであれば、質問毎／回答毎に別のものが推薦されるという惨状が繰り返されることは無いはずです。この時の回答内容定まらない回答者側の原因は、おそらくは、回答者が個人的にたまたま知っている環境、よく知っている／使っている環境、好きな環境から推薦するものが選ばれるから、というのが伺えます。</p><p>「では結局のところ、漠然とした思いからゲームを作りたいと思っている人は、何で作るのが一番いいのか？」という質問に対する一番いい答えは何か？まず「そんなものは無い」と、きちんと本当のことを教えてあげて下さい。そして「進むべき道筋のパターンも多く存在し、どういう時どういうパターンのどういう順序で何をどう学び作っていけば良いのか、という情報が必要である」ということを教え「その道筋の例となるような情報探したり、聞いたりしてください」と伝えて下さい。</p><p>決してあなたの「おきにの環境」を闇雲に推薦しないでください。迷っていた質問者が、より迷うことになるだけです。どうしても進めたいのであれば、あくまで「自分の場合はこうでした」と、ひとつのケースとして提示するに留めて下さい。</p><p>「ゲームを作りたいのですが、何をしたらいいんでしょうか」という質問を文字通り受け取らず、その奥にある「ゲームを作りたい」という思いを成就させるための後先の長い将来的な構想を提供してくだださい。それは、とても一言では説明しきれない長い長い説明で、それは、常に様々な新しい考えが反映され頻繁に更新されるようなものになるでしょう。「C言語がおすすめです」じゃ済まされないんです。</p><p>「進むべき道筋のパターン」の１つとして、とても参考になるのが<a href="http://www.abars.biz/lecture/" target="_blank" rel="noopener">Abars さんの「ゲーム制作講座」</a>です。個人的にはこのページはとても好きです。もし、迷える子羊を見かけたら、このページを１つの道筋の例の参考として薦めてあげて下さい。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;このエントリーは、ゲーム開発初心者がよく質問する「最初は何で作るのがいいですか？」に対する回答に関する考察についての話です。&lt;/p&gt;
+&lt;p&gt;この手の質問自体は、過去に質問サイトや2chなどで頻繁に目にした記憶があります。そしてそれに対する回答は、質問毎によって変容し定まって
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>「悪徳ゲーム」に対する投稿まとめ</title>
+    <link href="http://zukkun.github.io/20111227-evil-games.html"/>
+    <id>http://zukkun.github.io/20111227-evil-games.html</id>
+    <published>2011-12-26T15:00:00.000Z</published>
+    <updated>2018-05-09T02:20:48.156Z</updated>
+    
+    <content type="html"><![CDATA[<p>過去に自分が「悪徳ゲーム」についてGoogle+に投稿／コメントした内容を転載します。</p><hr><p>“ソーシャルゲームの本来のソーシャル的な友達とのやり取り的楽しみを根ざした比較的ヘルシーなソーシャルゲームは、それはそれで良しとして、そうではない催眠商法まがいの”それ”は、悪徳ゲームと呼ぶべき。いや「ゲーム」という神聖な言葉も汚したくないので、ただの「悪徳商法」と呼ぶべき。”</p><p>“ゲーム的な純粋な”楽しさ”を提供しているものはヘルシーな経済だと思っていますが、その”楽しさ”的なものや射幸心をあおるような形で銭を”際限なく”巻き上げるというスタイルを”悪”だと言っているのです。そんなものは経済でも富でも愛でも何でもないです。”</p><p>“悪徳商法に限らず、すべての経済活動や商取引は、何らかの人間の欲や習性に、ある種”つけこんで”いるわけなので、その主張によって「悪徳ゲーム」も「一般ゲーム」も双方とも悪、もしくは悪ではない、という判断は出来ません。また、裁判にて罪の重さが決められるとき、被告の犯行の意図や、どういう意思に基づいて行った行動なのかということが、罪の重さを左右することがよくあると思います。これと同様に「同じ「ゲーム」という体裁したそれが「どういう意思によって作られているか」」という基準で私はそれに愛を感じたり、悪を感じたりします。「悪徳ゲーム」からは「銭を巻き上げる」という意思がひしひしと感じ取れるので嫌悪感と共に”悪”を感じます。”</p><p>“金が回ること自体が”善”だとすれば、ヤクザも詐欺師もお金を回しているという点で”善”ということになってしまう。経済の本質はお金が動くことなんかじゃなくて「誰が誰のためにどう動いて何を生むか」だ。つまり「愛」。いわゆる「悪徳ゲーム」は、愛のかけらも感じられない。”</p><p>“「ソーシャルゲーム」っていう名前自体は、もともとは「非同期オンライン的に他人にちょっとした干渉が可能なゲーム」というような意味合いで使われていたので、フリーミアム的悪徳催眠商法的ゲームに対して使って欲しくない。悪徳の方は悪徳ゲームって呼んで欲しい。”</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;過去に自分が「悪徳ゲーム」についてGoogle+に投稿／コメントした内容を転載します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;“ソーシャルゲームの本来のソーシャル的な友達とのやり取り的楽しみを根ざした比較的ヘルシーなソーシャルゲームは、それはそれで良しとして、そうではない催眠商法まがいの
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲーム作品を発表する魅力的な場が必要という話</title>
+    <link href="http://zukkun.github.io/20111130-game-release-field.html"/>
+    <id>http://zukkun.github.io/20111130-game-release-field.html</id>
+    <published>2011-11-29T15:00:00.000Z</published>
+    <updated>2018-05-09T02:20:31.928Z</updated>
+    
+    <content type="html"><![CDATA[<p>自分のGoogle+の過去の投稿から転載。</p><p><a href="https://plus.google.com/102285522680170563800/posts/5i9k9UQXbvz?hl=ja" target="_blank" rel="noopener">https://plus.google.com/102285522680170563800/posts/5i9k9UQXbvz?hl=ja</a></p><p>→<a href="http://akasata.hatenablog.com/entry/20090802/1249144923" target="_blank" rel="noopener">フリーゲームには、作り手も遊び手も知っている発表の「場」が必要なんじゃないかな - 平凡なエンジニアの独り言</a></p><p>ベーマガは「場」として魅力的だった。それは、自身がベーマガを読み、その中身から「他にベーマガを読んでいる人」「他のプログラム投稿をしている人」「編集者／記事を執筆の人」などの多くの人が投稿したものを見るという意識が強く感じられるからである。</p><p>Web時代が拓けてからは、そういった「場」の提供が盛んになり、確かに「場」は増えた。しかし「場」が分散してしまったために、そこに参加している人ももちろん分散してしまっている。</p><p>参加している人数以外にも、その「場」自体に、たくさん人があつまっているということが意識できる仕組みがあるかどうかも「場」としての魅力に関わってくる。ニコニコ動画が流行ったのも、あの画面中に流れるコメントによって「ここに投稿すればみんな見てくれる」という意識が芽生えたからこそ（実際に多くの人が見てくれるかどうかは別として）、そこで作品を発表する意欲が増す。結果、良質な作品が集まる。</p><p>時代はソーシャル時代になり「おもしろいコンテンツ」の情報はソーシャルな仕組みを通じて広まり、その作品がどこで発表されたものなのかということはあまり意識されなくなった。これまで発表の場という縦軸に対して人が群がっていたのに対して、今はソーシャルという横軸が串刺しになっているのである。</p><p>もはや、作品がどこに投稿されたかというのは重要ではなくなった。どこの動画サイトに投稿されたものであろうが、おもしろい動画は人気が出る。ゲームであっても、個人Webページに何気なく置いたものであっても、今ではソーシャルの仕組みによって広まる可能性は充分にある。</p><p>しかし、作品を作ってきた人がこれまで目標としてきたような魅力的な「場」という存在はどうなってしまったのか。ソーシャルという仕組みは「作品発表者にとって魅力的な場」になりえているのか。個人的な感想から言うと、なっていない。</p><p>「場」には、発表の形式／フォーマットが存在している。今現在、ソーシャルの仕組みを使ったゲームの発表についてはフォーマットは存在しない。Twitterであれば「○○ゲーム作りました。遊んでください→URL」と書くだろうか。それに100人以上群がるか？</p><p>ソーシャルの仕組みによってあふれた情報を、さらに分類／集計などしてまとめたサイトが増えてきている。これだ。これこそ新しい軸。奥行き方向の新しい軸だ。縦軸の「場」によって発表された作品が、横軸のソーシャルによって情報が串刺しになり、それが奥行き軸よってまとめあげられる。</p><p>そういうことだ。誰か縦軸／横軸によって発表されたゲーム作品の情報を、美しいフォーマットによって奥行き軸でまとめあげるサービスを作ってくれ。それが作品発表者としての魅力的な作品発表の「場」となり、良質なゲームを創出する意欲へとつながる。魅力的な「場」は、魅力的な作品を生み出す。</p><p>詐欺と搾取のクソ擬似ゲームコンテンツ社会をぶっつぶしてくれ！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;自分のGoogle+の過去の投稿から転載。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://plus.google.com/102285522680170563800/posts/5i9k9UQXbvz?hl=ja&quot; target=&quot;_blank&quot; rel=&quot;noopene
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>マーケティング的ゲーム作り</title>
+    <link href="http://zukkun.github.io/20100421-marketing-driven-game-development.html"/>
+    <id>http://zukkun.github.io/20100421-marketing-driven-game-development.html</id>
+    <published>2010-04-20T15:00:00.000Z</published>
+    <updated>2018-05-09T02:20:16.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>マーケティングにおける新製品開発の手法をそのままゲームデザインに当てはめ。</p><ol><li>ネタ出し</li><li>検証<ol><li>ニーズがあるか？</li><li>実現可能か？</li></ol></li><li>試作</li><li>テスト</li></ol><p>「１．ネタ出し」は、ブレーンストーミング的な何か。</p><p>「２．検証」は、「ニーズがあるか？」「実現可能か？」を調べる。ニーズがあるかどうかは、どう調べればいいんだろう。主観？</p><p>「３．試作」は文字通り試作。プロトタイプ版とか、パイロット版とかみたいな言い方のやつ。下手すると、これにけっこう時間がかかるかも。これをいかに素早く行えるかが「試作→テスト」のサイクルを短くするかにかかわってくる。</p><p>「４．テスト」はテストマーケティング的なやつ。色んな人に遊んでもらう。ゲームをネットで公開して意見を集めるのもいいけど、一番いいと思っているのは、知人に遊んでもらって、それを肩越しに見て、どこでどういう遊び方をするのかを見る。あと、その知人が遊んでいる最中に漏らした言葉をメモる。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;マーケティングにおける新製品開発の手法をそのままゲームデザインに当てはめ。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ネタ出し&lt;/li&gt;
+&lt;li&gt;検証&lt;ol&gt;
+&lt;li&gt;ニーズがあるか？&lt;/li&gt;
+&lt;li&gt;実現可能か？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;試作&lt;/li&gt;
+&lt;li&gt;テスト
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ゲームデザインに必要な要素</title>
+    <link href="http://zukkun.github.io/20090915-game-design-element.html"/>
+    <id>http://zukkun.github.io/20090915-game-design-element.html</id>
+    <published>2009-09-14T15:00:00.000Z</published>
+    <updated>2018-05-09T02:19:57.440Z</updated>
+    
+    <content type="html"><![CDATA[<p>ゲームを作るときに必要な要素はかなり多くあります。プログラミングだけ出来ても、まともなゲームを作れません。</p><p>##コスティキャン的ゲームの構成要素</p><p>コスティキャンのゲーム論では、ゲームを定義する上での構成要素として</p><ul><li>意思決定</li><li>目標</li><li>障害物</li><li>管理資源</li><li>ゲームトークン</li><li>情報</li></ul><p>これらを説明しています。ゲームの肝となる部分を決めていく上では有用な情報で、ゲーム仕様を客観的に評価するためにも使えます。</p><p>#画面構成/遷移</p><p>画面構成と、その遷移を考えなければいけません。ここはありきたりな流れで作っても問題は無いですが、工夫の余地はあります。</p><p>#画面レイアウト</p><p>この辺はちょっとダルい作業ですが、決めなければ進みません。レイアウトだけに限らず、細かい動作の仕様も決める必要があります。また、ユーザーインターフェイスもデザインする必要があり、「ユーザビリティ」などを考慮する必要があります。また、芸術的センスも必要になります。</p><p>#演出</p><p>様々なタイミングで演出(画面エフェクト・効果音など)を行うことは、ゲームでは半ば常識化しています。どこでどういう演出を行うのかを決めなければいけません。</p><p>#データ定義</p><p>どういう情報をどのように持つのかを決めなければいけません。１つの情報が別の情報に依存している場合でも、どのように依存しているかを定義する必要があります。また、データを保存する場合も、どの情報をどのように保存するかも決めておかなればいけません。</p><p>#素材データ</p><p>画像・音などの素材は、ほとんど外注することが多いですが、発注前にどんな素材が必要なのかをリスト化する必要があります。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ゲームを作るときに必要な要素はかなり多くあります。プログラミングだけ出来ても、まともなゲームを作れません。&lt;/p&gt;
+&lt;p&gt;##コスティキャン的ゲームの構成要素&lt;/p&gt;
+&lt;p&gt;コスティキャンのゲーム論では、ゲームを定義する上での構成要素として&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;意思決
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
