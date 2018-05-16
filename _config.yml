@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://zukkun.github.io
 root: /
-permalink: :year:month:day-:title.html
+permalink: :year/:month:day-:title.html
 permalink_defaults:
 
 # Directory
@@ -82,9 +82,9 @@ deploy:
   repo: https://github.com/zukkun/zukkun.github.io.git
   branch: master
 
-  # Feed
-  feed: 
-    type: atom
-    path: atom.xml
-    limit: 20
-    content_limit: 140
+# Feed
+feed: 
+  type: atom
+  path: atom.xml
+  limit: 20
+  content_limit: 140
