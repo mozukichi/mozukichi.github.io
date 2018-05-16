@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zukkun.github.io/"/>
-  <updated>2018-05-09T03:38:52.208Z</updated>
+  <updated>2018-05-16T06:12:43.855Z</updated>
   <id>http://zukkun.github.io/</id>
   
   <author>
@@ -17,9 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>産業界には無い学術界における「公への質を伴った知の共有」という姿勢</title>
+    <link href="http://zukkun.github.io/2016/0921-industrial-sharing-knowledge.html"/>
+    <id>http://zukkun.github.io/2016/0921-industrial-sharing-knowledge.html</id>
+    <published>2016-09-20T15:00:00.000Z</published>
+    <updated>2018-05-16T06:12:43.855Z</updated>
+    
+    <content type="html"><![CDATA[<p>学術界には，理論の構築というような「基礎研究」，実用を目指す「応用研究」の他に，我々の生活の中にその実用性を適用させようとする「開発研究」という事業に近い形の研究が存在する．産業界においては，事業は基本的な活動の単位となり，主軸となる．産業界における事業と，学術界における事業には，どのような考え方の違いが存在するのかを考察する．</p><h1 id="学術は知の共有が目的"><a href="#学術は知の共有が目的" class="headerlink" title="学術は知の共有が目的"></a>学術は知の共有が目的</h1><p>産業界における事業は，世の中を変えること，またはその一端を担うことに主眼が置かれる．事業の存在によって，我々は生活における利便性を得たり，退屈の無い生活を送ったりすることが出来ることから，事業は世の中を変えてきたと言える．また，事業は継続性も求められる．事業によって得られた「良い生活」を安定して供給するためである．そのために，事業には利益を追求することが求められる．これは特定非営利活動法人であっても，活動の継続のために必要な予算を確保するためには，必要な姿勢である．</p><p>しかし，学術界における事業性を伴った開発研究は，世の中を変えること，またはその一端を担うこと，そしてそれを継続していくということは，目的の一部ではあっても，最終的な目標とされない．学術界において求められる最終的な成果は，新たな発見と，その知を公に共有することである．あくまで研究なのである．</p><h1 id="事業には知が必然的に生まれる"><a href="#事業には知が必然的に生まれる" class="headerlink" title="事業には知が必然的に生まれる"></a>事業には知が必然的に生まれる</h1><p>何らかの事業は，新規性が必然的に求められる．もしくは新規性が必然的に発生する．すでにコモディティ化した（一般に広まり，当たり前のような存在となった）業種の事業を新たに始めるような場合においても，その展開を行う国や地域，時期，またそれによる環境的な条件が，すでに展開されている同種の事業と違ってくることは，十分にあり得るということは想像に難くない．つまり，根っからの新規な事業（ベンチャー，スタートアップなどと呼ばれる，新しいビジネスモデルや新規市場開拓による事業）であらずとも，小さな条件の違いによる新規性は事業には生まれるものであると言える．</p><p>どのような事業であれ，他の事業との間に条件や内容に違いが生まれるからには，そこには新たな知が生まれるはずである．これは一般に「ノウハウ」と呼ばれるものと同義であろう．</p><h1 id="学術界は知の質を保証する仕組みを設ける"><a href="#学術界は知の質を保証する仕組みを設ける" class="headerlink" title="学術界は知の質を保証する仕組みを設ける"></a>学術界は知の質を保証する仕組みを設ける</h1><p>この「ノウハウ」と呼ばれる知は，最初は個人の中に芽生える．発見や気付きは，個人の脳の機能によってもたらされるからである．発見や気づきという実体のない存在が，空中で突然に発生することは考えられない．</p><p>この知は，個人の中で培われてゆくだけでなく，しばしば個人間で口頭による伝達が行われる．産業界においても，この口頭による知の伝達は伝統的に行われ，それは口頭伝承と呼ばれる．口頭伝承と呼ばれる場合，有識者が初学者に対して伝承されるのが，主な構図であるように思えるが，それに限らず，日々の活動の中での発見や気付きもまた知であり，それが個人間の熟練度の差にかかわらず，口頭伝承される場合も考えられる．</p><p>また、この産業界においては，口頭伝承だけでなく，知を明文化して蓄積し，それを個人に参照させることによる知の共有が行われることがある．これは「ナレッジマネジメント」と呼ばれる考え方の一部である．ただし，どのような知を共有すべきかや，それはどのような書式，どのような表現になるべきかなど，共有された内容の質に関わる基準は組織の裁量であり，その質を保証する役割を持った人物が組織内に居ることは稀であろう．</p><p>学術界においては，知は主に論文という形で共有され，査読という質の保証の過程が存在する．保証する質の内容は，学会論文誌の方針にもよるが，例えば電子情報通信学会では，以下のような査読の基準<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>を設けている．</p><ol><li>新規性：投稿の内容に著者の新規性があること．</li><li>有効性：投稿の内容が学術や産業の発展に役立つものであること．</li><li>信頼性：投稿の内容が読者から見て信用できるものであること．</li><li>了解性：投稿の内容が明確に記述されていて読者が誤解なく理解できるものであること．</li></ol><p>他の学会の論文誌であっても，おおよそ同じ様な基準を設けているものと思われる．</p><h1 id="学術界は知を公に共有する"><a href="#学術界は知を公に共有する" class="headerlink" title="学術界は知を公に共有する"></a>学術界は知を公に共有する</h1><p>産業界おいて，組織によって蓄えられた知は，基本的には公に共有する姿勢は持たない．産業界には機密保持という考え方が強く根付いているためでもあり，また事業そのものに関わる知は，その内容がそのまま組織間の競争力に影響する可能性を持っているためでもある．</p><p>学術界における論文誌は，公開されている．公開されていると言っても，全てが無料で公開されているというわけではない．多くの日本国内の学会の論文誌は有料で販売されている．しかし，誰であっても，購入する権利は持っている（学会の会員と非会員で論文誌の価格が違うことが多いが）．学会によっては，論文のPDFファイルがWeb上で無償公開されているものもある．また，公的資金によって研究された成果をオープンアクセスの考え方にもとづいて公開すべきとして文部科学省が方針を示した<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>ことは記憶に新しい．</p><h1 id="産業界における公への知の共有の動き"><a href="#産業界における公への知の共有の動き" class="headerlink" title="産業界における公への知の共有の動き"></a>産業界における公への知の共有の動き</h1><p>昨今ICTにかかわる業界においては，組織によって運営されているブログを通じて「技術ブログ」と呼ばれる知の共有の仕組みを設けている組織も存在する．しかし，そこで扱われる内容は一般的な技術的要素に関わる内容に限られる事が多く，事業そのものの条件や成果に関する知が共有されることは少ない．</p><p>学術界における事業性を伴った開発研究では，その事業性を持つ活動の条件や成果に関する内容も含めた知を共有しなければ，研究の成果として認められない．人的資源，時間，予算などの内容や量，環境に関わる条件など，主張する成果に関わる条件は，明確にする必要がある．</p><p>産学連携として，学術機関と産業組織が共同で研究する場合があるが，ここで得られた知の共有は最終的には学術界に対して行われる．産業組織内の研究部門が，学術界に対して知の共有を行うこともある．産業界があくまで「世の中を変えること，またはその一端を担い，それを継続していく」という役割を持っているのなら，そこで得られた知を学術界によって質を保証させ，公開していく，という，それぞれの役割と持場を活かす姿勢であることが，生産的な構造であるのかもしれない．</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">電子情報通信学会和文論文誌　投稿のしおり <a href="http://www.ieice.or.jp/jpn/shiori/iss_5_1.html" target="_blank" rel="noopener">http://www.ieice.or.jp/jpn/shiori/iss_5_1.html</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">文部科学省 公的資金による研究成果公開のためのオープンアクセスについて <a href="http://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/002-1/siryo/attach/1320771.htm" target="_blank" rel="noopener">http://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/002-1/siryo/attach/1320771.htm</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;学術界には，理論の構築というような「基礎研究」，実用を目指す「応用研究」の他に，我々の生活の中にその実用性を適用させようとする「開発研究」という事業に近い形の研究が存在する．産業界においては，事業は基本的な活動の単位となり，主軸となる．産業界における事業と，学術界における事
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>良い忠告とはなにか</title>
-    <link href="http://zukkun.github.io/20151022-what-is-good-advice.html"/>
-    <id>http://zukkun.github.io/20151022-what-is-good-advice.html</id>
+    <link href="http://zukkun.github.io/2015/1022-what-is-good-advice.html"/>
+    <id>http://zukkun.github.io/2015/1022-what-is-good-advice.html</id>
     <published>2015-10-21T15:00:00.000Z</published>
     <updated>2018-05-09T03:38:52.208Z</updated>
     
@@ -43,8 +64,8 @@
   
   <entry>
     <title>Phaserはゲームデザインを侵食しているか？</title>
-    <link href="http://zukkun.github.io/20150902-phaser-erosion-gamedesign.html"/>
-    <id>http://zukkun.github.io/20150902-phaser-erosion-gamedesign.html</id>
+    <link href="http://zukkun.github.io/2015/0902-phaser-erosion-gamedesign.html"/>
+    <id>http://zukkun.github.io/2015/0902-phaser-erosion-gamedesign.html</id>
     <published>2015-09-01T15:00:00.000Z</published>
     <updated>2018-05-09T03:37:52.830Z</updated>
     
@@ -65,8 +86,8 @@
   
   <entry>
     <title>Google+の投稿を埋め込み</title>
-    <link href="http://zukkun.github.io/20130910-google-plus-embed.html"/>
-    <id>http://zukkun.github.io/20130910-google-plus-embed.html</id>
+    <link href="http://zukkun.github.io/2013/0910-google-plus-embed.html"/>
+    <id>http://zukkun.github.io/2013/0910-google-plus-embed.html</id>
     <published>2013-09-09T15:00:00.000Z</published>
     <updated>2018-05-09T02:26:22.402Z</updated>
     
@@ -88,8 +109,8 @@
   
   <entry>
     <title>Androidアプリ開発</title>
-    <link href="http://zukkun.github.io/20130802-create-android-app.html"/>
-    <id>http://zukkun.github.io/20130802-create-android-app.html</id>
+    <link href="http://zukkun.github.io/2013/0802-create-android-app.html"/>
+    <id>http://zukkun.github.io/2013/0802-create-android-app.html</id>
     <published>2013-08-01T15:00:00.000Z</published>
     <updated>2018-05-09T02:39:18.367Z</updated>
     
@@ -110,8 +131,8 @@
   
   <entry>
     <title>プログラミングの技術を磨くための課題</title>
-    <link href="http://zukkun.github.io/20130430-programming-practice.html"/>
-    <id>http://zukkun.github.io/20130430-programming-practice.html</id>
+    <link href="http://zukkun.github.io/2013/0430-programming-practice.html"/>
+    <id>http://zukkun.github.io/2013/0430-programming-practice.html</id>
     <published>2013-04-29T15:00:00.000Z</published>
     <updated>2018-05-09T02:25:56.907Z</updated>
     
@@ -131,8 +152,8 @@
   
   <entry>
     <title>『パズル＆ドラゴンズ』レビュー</title>
-    <link href="http://zukkun.github.io/20130128-pazzle_and_gragons.html"/>
-    <id>http://zukkun.github.io/20130128-pazzle_and_gragons.html</id>
+    <link href="http://zukkun.github.io/2013/0128-pazzle_and_gragons.html"/>
+    <id>http://zukkun.github.io/2013/0128-pazzle_and_gragons.html</id>
     <published>2013-01-27T15:00:00.000Z</published>
     <updated>2018-05-09T02:25:42.645Z</updated>
     
@@ -153,8 +174,8 @@
   
   <entry>
     <title>ゲームフィーチャーパターン</title>
-    <link href="http://zukkun.github.io/20121127-game-feature-pattern.html"/>
-    <id>http://zukkun.github.io/20121127-game-feature-pattern.html</id>
+    <link href="http://zukkun.github.io/2012/1127-game-feature-pattern.html"/>
+    <id>http://zukkun.github.io/2012/1127-game-feature-pattern.html</id>
     <published>2012-11-26T15:00:00.000Z</published>
     <updated>2018-05-09T02:23:27.346Z</updated>
     
@@ -174,8 +195,8 @@
   
   <entry>
     <title>three.js/WebGLによる3Dプログラミング</title>
-    <link href="http://zukkun.github.io/20121031-webgl-threejs-experiments.html"/>
-    <id>http://zukkun.github.io/20121031-webgl-threejs-experiments.html</id>
+    <link href="http://zukkun.github.io/2012/1031-webgl-threejs-experiments.html"/>
+    <id>http://zukkun.github.io/2012/1031-webgl-threejs-experiments.html</id>
     <published>2012-10-30T15:00:00.000Z</published>
     <updated>2018-05-09T02:40:02.565Z</updated>
     
@@ -197,8 +218,8 @@
   
   <entry>
     <title>ゲーム開発における専用ツール開発の有用性</title>
-    <link href="http://zukkun.github.io/20120530-game-tool.html"/>
-    <id>http://zukkun.github.io/20120530-game-tool.html</id>
+    <link href="http://zukkun.github.io/2012/0530-game-tool.html"/>
+    <id>http://zukkun.github.io/2012/0530-game-tool.html</id>
     <published>2012-05-29T15:00:00.000Z</published>
     <updated>2018-05-09T02:25:04.367Z</updated>
     
@@ -218,8 +239,8 @@
   
   <entry>
     <title>ゲームシステムパターン</title>
-    <link href="http://zukkun.github.io/20120316-game-system-pattern.html"/>
-    <id>http://zukkun.github.io/20120316-game-system-pattern.html</id>
+    <link href="http://zukkun.github.io/2012/0316-game-system-pattern.html"/>
+    <id>http://zukkun.github.io/2012/0316-game-system-pattern.html</id>
     <published>2012-03-15T15:00:00.000Z</published>
     <updated>2018-05-09T02:22:24.564Z</updated>
     
@@ -249,8 +270,8 @@
   
   <entry>
     <title>ゲームにおける品質</title>
-    <link href="http://zukkun.github.io/20120301-game-quality.html"/>
-    <id>http://zukkun.github.io/20120301-game-quality.html</id>
+    <link href="http://zukkun.github.io/2012/0301-game-quality.html"/>
+    <id>http://zukkun.github.io/2012/0301-game-quality.html</id>
     <published>2012-02-29T15:00:00.000Z</published>
     <updated>2018-05-09T02:24:47.134Z</updated>
     
@@ -279,8 +300,8 @@
   
   <entry>
     <title>創作活動における障壁</title>
-    <link href="http://zukkun.github.io/20120229-barrier-of-game-development.html"/>
-    <id>http://zukkun.github.io/20120229-barrier-of-game-development.html</id>
+    <link href="http://zukkun.github.io/2012/0229-barrier-of-game-development.html"/>
+    <id>http://zukkun.github.io/2012/0229-barrier-of-game-development.html</id>
     <published>2012-02-28T15:00:00.000Z</published>
     <updated>2018-05-09T02:23:41.615Z</updated>
     
@@ -306,8 +327,8 @@
   
   <entry>
     <title>ゲームよって発生されうる感情や感覚、楽しみの要素について</title>
-    <link href="http://zukkun.github.io/20120221-game-emotion.html"/>
-    <id>http://zukkun.github.io/20120221-game-emotion.html</id>
+    <link href="http://zukkun.github.io/2012/0221-game-emotion.html"/>
+    <id>http://zukkun.github.io/2012/0221-game-emotion.html</id>
     <published>2012-02-20T15:00:00.000Z</published>
     <updated>2018-05-09T02:23:58.173Z</updated>
     
@@ -327,8 +348,8 @@
   
   <entry>
     <title>ゲームの企画書を書く&quot;伝える&quot;以外の目的</title>
-    <link href="http://zukkun.github.io/20120110-game-planning-purpose.html"/>
-    <id>http://zukkun.github.io/20120110-game-planning-purpose.html</id>
+    <link href="http://zukkun.github.io/2012/0110-game-planning-purpose.html"/>
+    <id>http://zukkun.github.io/2012/0110-game-planning-purpose.html</id>
     <published>2012-01-09T15:00:00.000Z</published>
     <updated>2018-05-09T02:24:33.416Z</updated>
     
@@ -348,8 +369,8 @@
   
   <entry>
     <title>ゲームプログラミングにおけるモジュール分割</title>
-    <link href="http://zukkun.github.io/20120110-game-modules.html"/>
-    <id>http://zukkun.github.io/20120110-game-modules.html</id>
+    <link href="http://zukkun.github.io/2012/0110-game-modules.html"/>
+    <id>http://zukkun.github.io/2012/0110-game-modules.html</id>
     <published>2012-01-09T15:00:00.000Z</published>
     <updated>2018-05-09T02:21:22.208Z</updated>
     
@@ -369,8 +390,8 @@
   
   <entry>
     <title>ゲーム開発初心者の「何で作るのが一番いいですか？」に対するベストな回答</title>
-    <link href="http://zukkun.github.io/20111228-best-answer-for-beginner.html"/>
-    <id>http://zukkun.github.io/20111228-best-answer-for-beginner.html</id>
+    <link href="http://zukkun.github.io/2011/1228-best-answer-for-beginner.html"/>
+    <id>http://zukkun.github.io/2011/1228-best-answer-for-beginner.html</id>
     <published>2011-12-27T15:00:00.000Z</published>
     <updated>2018-05-09T02:21:08.234Z</updated>
     
@@ -391,8 +412,8 @@
   
   <entry>
     <title>「悪徳ゲーム」に対する投稿まとめ</title>
-    <link href="http://zukkun.github.io/20111227-evil-games.html"/>
-    <id>http://zukkun.github.io/20111227-evil-games.html</id>
+    <link href="http://zukkun.github.io/2011/1227-evil-games.html"/>
+    <id>http://zukkun.github.io/2011/1227-evil-games.html</id>
     <published>2011-12-26T15:00:00.000Z</published>
     <updated>2018-05-09T02:20:48.156Z</updated>
     
@@ -414,8 +435,8 @@
   
   <entry>
     <title>ゲーム作品を発表する魅力的な場が必要という話</title>
-    <link href="http://zukkun.github.io/20111130-game-release-field.html"/>
-    <id>http://zukkun.github.io/20111130-game-release-field.html</id>
+    <link href="http://zukkun.github.io/2011/1130-game-release-field.html"/>
+    <id>http://zukkun.github.io/2011/1130-game-release-field.html</id>
     <published>2011-11-29T15:00:00.000Z</published>
     <updated>2018-05-09T02:20:31.928Z</updated>
     
@@ -436,8 +457,8 @@
   
   <entry>
     <title>マーケティング的ゲーム作り</title>
-    <link href="http://zukkun.github.io/20100421-marketing-driven-game-development.html"/>
-    <id>http://zukkun.github.io/20100421-marketing-driven-game-development.html</id>
+    <link href="http://zukkun.github.io/2010/0421-marketing-driven-game-development.html"/>
+    <id>http://zukkun.github.io/2010/0421-marketing-driven-game-development.html</id>
     <published>2010-04-20T15:00:00.000Z</published>
     <updated>2018-05-09T02:20:16.274Z</updated>
     
@@ -457,31 +478,6 @@
 &lt;/li&gt;
 &lt;li&gt;試作&lt;/li&gt;
 &lt;li&gt;テスト
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>ゲームデザインに必要な要素</title>
-    <link href="http://zukkun.github.io/20090915-game-design-element.html"/>
-    <id>http://zukkun.github.io/20090915-game-design-element.html</id>
-    <published>2009-09-14T15:00:00.000Z</published>
-    <updated>2018-05-09T02:19:57.440Z</updated>
-    
-    <content type="html"><![CDATA[<p>ゲームを作るときに必要な要素はかなり多くあります。プログラミングだけ出来ても、まともなゲームを作れません。</p><p>##コスティキャン的ゲームの構成要素</p><p>コスティキャンのゲーム論では、ゲームを定義する上での構成要素として</p><ul><li>意思決定</li><li>目標</li><li>障害物</li><li>管理資源</li><li>ゲームトークン</li><li>情報</li></ul><p>これらを説明しています。ゲームの肝となる部分を決めていく上では有用な情報で、ゲーム仕様を客観的に評価するためにも使えます。</p><p>#画面構成/遷移</p><p>画面構成と、その遷移を考えなければいけません。ここはありきたりな流れで作っても問題は無いですが、工夫の余地はあります。</p><p>#画面レイアウト</p><p>この辺はちょっとダルい作業ですが、決めなければ進みません。レイアウトだけに限らず、細かい動作の仕様も決める必要があります。また、ユーザーインターフェイスもデザインする必要があり、「ユーザビリティ」などを考慮する必要があります。また、芸術的センスも必要になります。</p><p>#演出</p><p>様々なタイミングで演出(画面エフェクト・効果音など)を行うことは、ゲームでは半ば常識化しています。どこでどういう演出を行うのかを決めなければいけません。</p><p>#データ定義</p><p>どういう情報をどのように持つのかを決めなければいけません。１つの情報が別の情報に依存している場合でも、どのように依存しているかを定義する必要があります。また、データを保存する場合も、どの情報をどのように保存するかも決めておかなればいけません。</p><p>#素材データ</p><p>画像・音などの素材は、ほとんど外注することが多いですが、発注前にどんな素材が必要なのかをリスト化する必要があります。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;ゲームを作るときに必要な要素はかなり多くあります。プログラミングだけ出来ても、まともなゲームを作れません。&lt;/p&gt;
-&lt;p&gt;##コスティキャン的ゲームの構成要素&lt;/p&gt;
-&lt;p&gt;コスティキャンのゲーム論では、ゲームを定義する上での構成要素として&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;意思決
       
     
     </summary>

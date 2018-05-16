@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-2812989-12', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+  
+  <title>ゲーム開発における専用ツール開発の有用性 | zukkun.github.io</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="人類は道具を使うことによって大きな進歩をしてきました。石を削り刃を作り、それで肉を切ることで食べやすくしたり、さらにそれを使って新しい道具作りに活用したりするなど、道具による道具の発展という可能性も広げました。このような歴史をたどって今があるということを考えますと、現代人においても道具というのはとても重要な存在に感じられます。 コンピュータ分野においては、こういった「道具」的な役割を持ったものはソ">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ゲーム開発における専用ツール開発の有用性">
+<meta property="og:url" content="http://zukkun.github.io/2012/0530-game-tool.html">
+<meta property="og:site_name" content="zukkun.github.io">
+<meta property="og:description" content="人類は道具を使うことによって大きな進歩をしてきました。石を削り刃を作り、それで肉を切ることで食べやすくしたり、さらにそれを使って新しい道具作りに活用したりするなど、道具による道具の発展という可能性も広げました。このような歴史をたどって今があるということを考えますと、現代人においても道具というのはとても重要な存在に感じられます。 コンピュータ分野においては、こういった「道具」的な役割を持ったものはソ">
+<meta property="og:locale" content="ja">
+<meta property="og:updated_time" content="2018-05-09T02:25:04.367Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="ゲーム開発における専用ツール開発の有用性">
+<meta name="twitter:description" content="人類は道具を使うことによって大きな進歩をしてきました。石を削り刃を作り、それで肉を切ることで食べやすくしたり、さらにそれを使って新しい道具作りに活用したりするなど、道具による道具の発展という可能性も広げました。このような歴史をたどって今があるということを考えますと、現代人においても道具というのはとても重要な存在に感じられます。 コンピュータ分野においては、こういった「道具」的な役割を持ったものはソ">
+  
+    <link rel="alternate" href="/atom.xml" title="zukkun.github.io" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">zukkun.github.io</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSSフィード"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="検索"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://zukkun.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-game-tool" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2012/0530-game-tool.html" class="article-date">
+  <time datetime="2012-05-29T15:00:00.000Z" itemprop="datePublished">2012-05-30</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      ゲーム開発における専用ツール開発の有用性
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>人類は道具を使うことによって大きな進歩をしてきました。石を削り刃を作り、それで肉を切ることで食べやすくしたり、さらにそれを使って新しい道具作りに活用したりするなど、道具による道具の発展という可能性も広げました。このような歴史をたどって今があるということを考えますと、現代人においても道具というのはとても重要な存在に感じられます。</p>
+<p>コンピュータ分野においては、こういった「道具」的な役割を持ったものはソフトウェアとして提供され、これらは「ツール」と呼ばれます。</p>
+<p>さて、ゲーム開発においてもツールというのはたくさん使われるものであります。ゲームに使われるツールの種類としましては、主に以下のものがございます。</p>
+<ul>
+<li>グラフィック系ツール（2D/3D）</li>
+<li>音系ツール</li>
+<li>プログラミングツール</li>
+<li>テキストエディタ</li>
+<li>表計算という皮をかぶった「Microsoft Excel」という名の日本を支配している謎の統合環境。方眼紙として使われることも</li>
+</ul>
+<p>グラフィックや音関連に付きましては、ゲームを表現するための素材を作るためのツールということになります。いわゆる飾り付け部分のための道具ということになります。</p>
+<p>プログラミングツールの存在は、ゲームが実際にゲームとして動くための情報を記述したり出力したりするための道具になります。このツールによって、ゲームがゲームとしてルールに沿って動くことが出来るようになります。</p>
+<p>さて、単純なルールと表現だけでゲームは作れるのですが、ゲームの内容の規模が大きくなってきますと、ゲーム内部で扱う情報の量が当然増えてくるわけですが、そういう情報をプログラムから取り出して外部のデータとして扱うというパターンが出てきます。そして、そういった外部のデータを記述するためのツールとして、テキストエディタや、Excelが使われる場面が出てきます。</p>
+<p>ゲームで扱う情報の形式で多いパターンとしては、以下のものがあります。</p>
+<ul>
+<li>リスト（行単位で情報が記述されたテキストなど）</li>
+<li>テーブル形式（CSVなど）</li>
+<li>構造化形式（XML, JSONなど）</li>
+<li>独自のバイナリ</li>
+</ul>
+<p>上記のような情報を記述するためのツールとして、テキストエディタやExcelを例に出しましたが、時には、扱う情報の種類に特化した専用のツールが使われるパターンがあります。そういったものの例としては、マップエディター、レベルエディターがあります。これらは言わば、ゲーム世界を構築するためのコンストラクションツールと言えるでしょう。</p>
+<p>マップエディターに関しては、汎用的に使えるツールを見かけることがありますが、少しでもゲームの内容に特化した情報を付加させようとすると、そのツールでは物足りなくなります。レベルエディターについては、厳密にゲームデザインに沿った形になっていなければなりません。</p>
+<p>ゲームデザインが固定化しているジャンルにおいては、いわゆるゲームエンジン、ミドルウェアといった形でレベルエディターが提供されているものがあります。</p>
+<p>もしあなたが、あなたオリジナルのデザインによって世界を構築したいのならば、それを構築するためのツールを作るという選択肢を考えて下さい。それは単にデータ作りが楽になるだけではなく、むしろ、ツール無しでは作られることのなかった世界がそこで構築されることになるのです。</p>
+<p>「制限があるほうが人は創造的になれる」という話を聞きます。まったくの無から有を生み出すことは非常にコストのかかる作業になります。厳密には無理でしょう。なぜなら、まったくの新しいものと思われるアイディアも、すでにある何かの組み合わせであるから、という話に由来します。もし、その組み合わせの元になる何かがすでに用意され、組み合わせの選択肢が制限されているとしたら、その作業コストはずっと少なくなります。しかし、それはとても創造的なことなのです。なぜなら、組み合わせこそが創造だったからに他なりません。その制限された創造的な空間を提供するのがツールなのです。</p>
+<p>人は、創造のためにツールを使うのではなく、ツールの上で創造するのです。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://zukkun.github.io/2012/0530-game-tool.html" data-id="cjh8q69cm000hg8vq2mcge0z5" class="article-share-link">共有</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2012/1031-webgl-threejs-experiments.html" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">次の記事</strong>
+      <div class="article-nav-title">
+        
+          three.js/WebGLによる3Dプログラミング
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2012/0316-game-system-pattern.html" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前の記事</strong>
+      <div class="article-nav-title">ゲームシステムパターン</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">アーカイブ</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">9月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">10月 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">9月 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/09/">9月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/08/">8月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/04/">4月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/01/">1月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/11/">11月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/10/">10月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/05/">5月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/03/">3月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/02/">2月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/01/">1月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2011/12/">12月 2011</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2011/11/">11月 2011</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2010/04/">4月 2010</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2009/09/">9月 2009</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2009/07/">7月 2009</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2006/08/">8月 2006</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2006/03/">3月 2006</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最近の投稿</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2016/0921-industrial-sharing-knowledge.html">産業界には無い学術界における「公への質を伴った知の共有」という姿勢</a>
+          </li>
+        
+          <li>
+            <a href="/2015/1022-what-is-good-advice.html">良い忠告とはなにか</a>
+          </li>
+        
+          <li>
+            <a href="/2015/0902-phaser-erosion-gamedesign.html">Phaserはゲームデザインを侵食しているか？</a>
+          </li>
+        
+          <li>
+            <a href="/2013/0910-google-plus-embed.html">Google+の投稿を埋め込み</a>
+          </li>
+        
+          <li>
+            <a href="/2013/0802-create-android-app.html">Androidアプリ開発</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2018 Kazuki Miyanishi<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+
+
+  </div>
+</body>
+</html>

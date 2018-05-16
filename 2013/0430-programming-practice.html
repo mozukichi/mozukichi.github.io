@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-2812989-12', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+  
+  <title>プログラミングの技術を磨くための課題 | zukkun.github.io</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Google+にて「書きたいプログラムが無いけど、プログラミング技術を磨きたいという時はどうしたらいいですか。」という相談を投稿したところ、有用なアドバイスをいくつか頂けたので、ここでまとめてみます。 例題を探して実装してみるプログラミングの解説サイトを探して、そこで扱っている例題を自力で実装してみるという感じでしょうか。 プログラミング解説サイト系ですと、言語の仕様と機能の説明が多い印象なので、">
+<meta property="og:type" content="article">
+<meta property="og:title" content="プログラミングの技術を磨くための課題">
+<meta property="og:url" content="http://zukkun.github.io/2013/0430-programming-practice.html">
+<meta property="og:site_name" content="zukkun.github.io">
+<meta property="og:description" content="Google+にて「書きたいプログラムが無いけど、プログラミング技術を磨きたいという時はどうしたらいいですか。」という相談を投稿したところ、有用なアドバイスをいくつか頂けたので、ここでまとめてみます。 例題を探して実装してみるプログラミングの解説サイトを探して、そこで扱っている例題を自力で実装してみるという感じでしょうか。 プログラミング解説サイト系ですと、言語の仕様と機能の説明が多い印象なので、">
+<meta property="og:locale" content="ja">
+<meta property="og:updated_time" content="2018-05-09T02:25:56.907Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="プログラミングの技術を磨くための課題">
+<meta name="twitter:description" content="Google+にて「書きたいプログラムが無いけど、プログラミング技術を磨きたいという時はどうしたらいいですか。」という相談を投稿したところ、有用なアドバイスをいくつか頂けたので、ここでまとめてみます。 例題を探して実装してみるプログラミングの解説サイトを探して、そこで扱っている例題を自力で実装してみるという感じでしょうか。 プログラミング解説サイト系ですと、言語の仕様と機能の説明が多い印象なので、">
+  
+    <link rel="alternate" href="/atom.xml" title="zukkun.github.io" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">zukkun.github.io</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSSフィード"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="検索"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://zukkun.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-programming-practice" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2013/0430-programming-practice.html" class="article-date">
+  <time datetime="2013-04-29T15:00:00.000Z" itemprop="datePublished">2013-04-30</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      プログラミングの技術を磨くための課題
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Google+にて「書きたいプログラムが無いけど、プログラミング技術を磨きたいという時はどうしたらいいですか。」<br>という相談を<a href="https://plus.google.com/u/0/102285522680170563800/posts/aJ1HtqPuQ55" target="_blank" rel="noopener">投稿</a>したところ、有用なアドバイスをいくつか頂けたので、ここでまとめてみます。</p>
+<h2 id="例題を探して実装してみる"><a href="#例題を探して実装してみる" class="headerlink" title="例題を探して実装してみる"></a>例題を探して実装してみる</h2><p>プログラミングの解説サイトを探して、そこで扱っている例題を自力で実装してみるという感じでしょうか。</p>
+<p>プログラミング解説サイト系ですと、言語の仕様と機能の説明が多い印象なので、適当な例題が無いケースが多いような気もするので、ちょうどいい例題が見つかりにくいんじゃないかと思ったりもします。</p>
+<h2 id="ゴールの設定を他人任せにしてしまう"><a href="#ゴールの設定を他人任せにしてしまう" class="headerlink" title="ゴールの設定を他人任せにしてしまう"></a>ゴールの設定を他人任せにしてしまう</h2><ul>
+<li>なんか作るけどリクエストある？って募集する</li>
+<li>オープンソース系のソフトのissueを解決してみる</li>
+</ul>
+<p>プログラミングの技量が少ない場合、内容によっては、自分の技量に合った難易度ではない可能性が高いですね。</p>
+<p>上級者向けです。</p>
+<h2 id="Project-Euler"><a href="#Project-Euler" class="headerlink" title="Project Euler"></a>Project Euler</h2><p><a href="http://projecteuler.net/" target="_blank" rel="noopener">http://projecteuler.net/</a></p>
+<p>数学的なプログラミング課題がたくさん提供されているサイトです。</p>
+<p>プログラミング自体は割りと出来る状態かつ数学的な問題の解法について考察をしないといけないので「プログラミング自体のスキルを磨こう」という目的にはそぐわないかもしれません。</p>
+<h2 id="『Java-Puzzlers』"><a href="#『Java-Puzzlers』" class="headerlink" title="『Java Puzzlers』"></a>『Java Puzzlers』</h2><p><a href="http://www.javapuzzlers.com/" target="_blank" rel="noopener">http://www.javapuzzlers.com/</a></p>
+<p>内容は見てませんが、おもしろそうです。</p>
+<h2 id="車輪の再発明"><a href="#車輪の再発明" class="headerlink" title="車輪の再発明"></a>車輪の再発明</h2><blockquote>
+<p>すでにあるフレームワークの機能（の一部）を、独自の実装で再現してみる</p>
+</blockquote>
+<p>こちらは難易度を設定しやすいのでおもしろそうです。</p>
+<h2 id="API、フォーマット、プロトコルのサンプルを作ってみる"><a href="#API、フォーマット、プロトコルのサンプルを作ってみる" class="headerlink" title="API、フォーマット、プロトコルのサンプルを作ってみる"></a>API、フォーマット、プロトコルのサンプルを作ってみる</h2><p>難易度高めですがおもしろそうです。そして各種仕様について理解を深められるので、一石二鳥です。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://zukkun.github.io/2013/0430-programming-practice.html" data-id="cjh8q69ck000fg8vqle6gyqtd" class="article-share-link">共有</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2013/0802-create-android-app.html" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">次の記事</strong>
+      <div class="article-nav-title">
+        
+          Androidアプリ開発
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2013/0128-pazzle_and_gragons.html" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前の記事</strong>
+      <div class="article-nav-title">『パズル＆ドラゴンズ』レビュー</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">アーカイブ</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">9月 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">10月 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/09/">9月 2015</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/09/">9月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/08/">8月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/04/">4月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2013/01/">1月 2013</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/11/">11月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/10/">10月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/05/">5月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/03/">3月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/02/">2月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2012/01/">1月 2012</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2011/12/">12月 2011</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2011/11/">11月 2011</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2010/04/">4月 2010</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2009/09/">9月 2009</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2009/07/">7月 2009</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2006/08/">8月 2006</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2006/03/">3月 2006</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最近の投稿</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2016/0921-industrial-sharing-knowledge.html">産業界には無い学術界における「公への質を伴った知の共有」という姿勢</a>
+          </li>
+        
+          <li>
+            <a href="/2015/1022-what-is-good-advice.html">良い忠告とはなにか</a>
+          </li>
+        
+          <li>
+            <a href="/2015/0902-phaser-erosion-gamedesign.html">Phaserはゲームデザインを侵食しているか？</a>
+          </li>
+        
+          <li>
+            <a href="/2013/0910-google-plus-embed.html">Google+の投稿を埋め込み</a>
+          </li>
+        
+          <li>
+            <a href="/2013/0802-create-android-app.html">Androidアプリ開発</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2018 Kazuki Miyanishi<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+
+
+  </div>
+</body>
+</html>
